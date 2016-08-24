@@ -30,6 +30,12 @@ peces <- datosp %>%
          NT = as.numeric(as.character(NT))) %>%
   as.data.frame()
 
+peces$Sitio = as.character(peces$Sitio)
+peces$Sitio[peces$Sitio == "ZRP40 Cañones Sur "] = "ZRP40 Cañones Sur"
+peces$Sitio[peces$Sitio == "ZRP40 Cañones Sur (Control)  "] = "ZRP40 Cañones Sur (Control)"
+peces$Sitio = as.factor(peces$Sitio)
+
+
 save(peces, file = "Datos/PecesSAM.RData")
 
 #############################################
