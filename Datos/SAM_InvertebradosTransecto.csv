@@ -1,12 +1,12 @@
-Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de protección;ANP;Buzo Monitor;Hora inicial buceo;Hora final buceo;Profundidad inicial (m);Profundidad final (m);Temperatura (°C);Visibilidad (m);Transecto;Genero;Especie;GeneroEspecie;Abundancia
+Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;TipoProteccion;ANP;BuzoMonitor;HoraInicial;HoraFinal;ProfundidadInicial;ProfundidadFinal;Temperatura;Visibilidad;Transecto;Genero;Especie;GeneroEspecie;Abundancia
 18;3;2012;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;9:50;ND;5;5;ND;ND;1;Tripneustes;esculentus;Tripneustes esculentus;1
 18;3;2012;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;9:50;ND;5;5;ND;ND;1;Strombus;gigas;Strombus gigas;1
-18;3;2012;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;9:50;ND;5;5;ND;ND;2;ND;ND;ND ND;0
+18;3;2012;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;9:50;ND;5;5;ND;ND;2;NA;NA;NA;0
 18;3;2012;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;9:50;ND;5;5;ND;ND;3;Strombus;gigas;Strombus gigas;1
-18;3;2012;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pedro Cruz Be;9:50;ND;5;5;ND;ND;4;ND;ND;ND ND;0
-18;3;2012;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pedro Cruz Be;9:50;ND;5;5;ND;ND;5;ND;ND;ND ND;0
-18;3;2012;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;12:05;ND;5;5;ND;ND;1;ND;ND;ND ND;0
-18;3;2012;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;12:05;ND;5;6;ND;ND;2;ND;ND;ND ND;0
+18;3;2012;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pedro Cruz Be;9:50;ND;5;5;ND;ND;4;NA;NA;NA;0
+18;3;2012;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pedro Cruz Be;9:50;ND;5;5;ND;ND;5;NA;NA;NA;0
+18;3;2012;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;12:05;ND;5;5;ND;ND;1;NA;NA;NA;0
+18;3;2012;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;12:05;ND;5;6;ND;ND;2;NA;NA;NA;0
 18;3;2012;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pedro Cruz Be;12:05;ND;5;6;ND;ND;3;Panulirus;argus;Panulirus argus;3
 18;3;2012;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pedro Cruz Be;12:05;ND;5;6;ND;ND;4;Panulirus;argus;Panulirus argus;1
 17;3;2012;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;12:00;ND;4;5;ND;ND;1;Diadema;antillarum;Diadema antillarum;2
@@ -58,7 +58,7 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 19;6;2012;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;ND;ND;12;24;28;ND;4;Stenopus;hispidus;Stenopus hispidus;2
 19;6;2012;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Alberto Juarez Rosas;ND;ND;12;24;28;ND;5;Stenopus;hispidus;Stenopus hispidus;1
 19;6;2012;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Alberto Juarez Rosas;ND;ND;12;24;28;ND;5;Panulirus;argus;Panulirus argus;1
-19;6;2012;Quintana Roo;Banco Chinchorro;Punta Teresa;18.52874;-87.43093;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;ND;ND;12;24;28;ND;1;ND;ND;ND ND;0
+19;6;2012;Quintana Roo;Banco Chinchorro;Punta Teresa;18.52874;-87.43093;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;ND;ND;12;24;28;ND;1;NA;NA;NA;0
 19;6;2012;Quintana Roo;Banco Chinchorro;Punta Teresa;18.52874;-87.43093;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;ND;ND;12;5;28;ND;2;Stenopus;hispidus;Stenopus hispidus;3
 19;6;2012;Quintana Roo;Banco Chinchorro;Punta Teresa;18.52874;-87.43093;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Alberto Juarez Rosas;ND;ND;12;5;28;ND;3;Stenopus;hispidus;Stenopus hispidus;2
 19;6;2012;Quintana Roo;Banco Chinchorro;Punta Teresa;18.52874;-87.43093;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Alberto Juarez Rosas;ND;ND;12;5;28;ND;3;Pterois;volitans;Pterois volitans;1
@@ -69,7 +69,7 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 19;6;2012;Quintana Roo;Banco Chinchorro;Punta Teresa;18.52874;-87.43093;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Jose Francisco Puc Torres;ND;ND;12;5;28;ND;6;Eucidaris;tribuloides;Eucidaris tribuloides;1
 19;6;2012;Quintana Roo;Banco Chinchorro;Punta Teresa;18.52874;-87.43093;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Jose Francisco Puc Torres;ND;ND;12;5;28;ND;6;Tripneustes;esculentus;Tripneustes esculentus;2
 18;6;2012;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;ND;ND;7;12;28;ND;1;Strombus;gigas;Strombus gigas;3
-18;6;2012;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;ND;ND;7;12;28;ND;2;ND;ND;ND ND;0
+18;6;2012;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;ND;ND;7;12;28;ND;2;NA;NA;NA;0
 18;6;2012;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Alberto Juarez Rosas;ND;ND;7;12;28;ND;3;Stenopus;hispidus;Stenopus hispidus;1
 18;6;2012;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Alberto Juarez Rosas;ND;ND;7;12;28;ND;3;Strombus;gigas;Strombus gigas;3
 18;6;2012;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Alberto Juarez Rosas;ND;ND;7;12;28;ND;4;Stenopus;hispidus;Stenopus hispidus;2
@@ -83,14 +83,14 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 1;11;2012;Quintana Roo;Punta Herrero;Anegado de Chal;19.35063;-87.41262;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;9:30;ND;24;5;28;ND;1;Diadema;antillarum;Diadema antillarum;1
 1;11;2012;Quintana Roo;Punta Herrero;Anegado de Chal;19.35063;-87.41262;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;9:30;ND;24;5;28;ND;1;Panulirus;argus;Panulirus argus;1
 1;11;2012;Quintana Roo;Punta Herrero;Anegado de Chal;19.35063;-87.41262;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;9:30;ND;24;5;28;ND;2;Stenopus;hispidus;Stenopus hispidus;1
-1;11;2012;Quintana Roo;Punta Herrero;Anegado de Chal;19.35063;-87.41262;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Rodrigo Pantoja;9:30;ND;24;5;28;ND;3;ND;ND;ND ND;0
+1;11;2012;Quintana Roo;Punta Herrero;Anegado de Chal;19.35063;-87.41262;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Rodrigo Pantoja;9:30;ND;24;5;28;ND;3;NA;NA;NA;0
 1;11;2012;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;12:45;ND;5;5;28;ND;1;Diadema;antillarum;Diadema antillarum;1
 1;11;2012;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;12:45;ND;5;5;28;ND;1;Eucidaris;tribuloides;Eucidaris tribuloides;1
 1;11;2012;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;12:45;ND;5;5;28;ND;1;Panulirus;argus;Panulirus argus;1
 1;11;2012;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;12:45;ND;5;5;28;ND;2;Stenopus;hispidus;Stenopus hispidus;2
 1;11;2012;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;12:45;ND;5;5;28;ND;2;Diadema;antillarum;Diadema antillarum;1
-1;11;2012;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;12:45;ND;5;4;28;ND;3;ND;ND;ND ND;0
-1;11;2012;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;12:45;ND;5;4;28;ND;4;ND;ND;ND ND;0
+1;11;2012;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;12:45;ND;5;4;28;ND;3;NA;NA;NA;0
+1;11;2012;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;12:45;ND;5;4;28;ND;4;NA;NA;NA;0
 1;11;2012;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Marco Antonio Gonzalez;12:45;ND;5;4;28;ND;5;Stenopus;hispidus;Stenopus hispidus;2
 1;11;2012;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Marco Antonio Gonzalez;12:45;ND;5;4;28;ND;5;Eucidaris;tribuloides;Eucidaris tribuloides;2
 1;11;2012;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Marco Antonio Gonzalez;12:45;ND;5;4;28;ND;5;Panulirus;argus;Panulirus argus;1
@@ -120,9 +120,9 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 26;1;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;8:45;ND;4;4;27;ND;2;Strombus;gigas;Strombus gigas;2
 26;1;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Noe Castellanos Marrufo;8:45;ND;4;4;27;ND;3;Panulirus;argus;Panulirus argus;1
 26;1;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Noe Castellanos Marrufo;8:45;ND;4;4;27;ND;3;Strombus;gigas;Strombus gigas;1
-26;1;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Noe Castellanos Marrufo;8:45;ND;4;4;27;ND;4;ND;ND;ND ND;0
-26;1;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;8:45;ND;4;4;27;ND;5;ND;ND;ND ND;0
-26;1;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;8:45;ND;4;4;27;ND;6;ND;ND;ND ND;0
+26;1;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Noe Castellanos Marrufo;8:45;ND;4;4;27;ND;4;NA;NA;NA;0
+26;1;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;8:45;ND;4;4;27;ND;5;NA;NA;NA;0
+26;1;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;8:45;ND;4;4;27;ND;6;NA;NA;NA;0
 26;1;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;10:28;ND;4;4;27;ND;1;Diadema;antillarum;Diadema antillarum;2
 26;1;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;10:28;ND;4;4;27;ND;1;Eucidaris;tribuloides;Eucidaris tribuloides;1
 26;1;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;10:28;ND;4;4;27;ND;1;Panulirus;argus;Panulirus argus;1
@@ -132,8 +132,8 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 26;1;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Noe Castellanos Marrufo;10:28;ND;4;4;27;ND;3;Panulirus;argus;Panulirus argus;5
 26;1;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Noe Castellanos Marrufo;10:28;ND;4;4;27;ND;4;Panulirus;argus;Panulirus argus;2
 26;1;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Noe Castellanos Marrufo;10:28;ND;4;4;27;ND;4;Panulirus;guttatus;Panulirus guttatus;1
-26;1;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;10:28;ND;4;4;27;ND;5;ND;ND;ND ND;0
-26;1;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;10:28;ND;4;4;27;ND;6;ND;ND;ND ND;0
+26;1;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;10:28;ND;4;4;27;ND;5;NA;NA;NA;0
+26;1;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;10:28;ND;4;4;27;ND;6;NA;NA;NA;0
 25;1;2013;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;12:30;ND;5;5;ND;ND;1;Stenopus;hispidus;Stenopus hispidus;1
 25;1;2013;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;12:30;ND;5;5;ND;ND;1;Eucidaris;tribuloides;Eucidaris tribuloides;4
 25;1;2013;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;12:30;ND;5;5;ND;ND;1;Strombus;gigas;Strombus gigas;2
@@ -153,10 +153,10 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 25;1;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;8:55;ND;3;5;ND;ND;1;Panulirus;argus;Panulirus argus;1
 25;1;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;8:55;ND;3;5;ND;ND;1;Panulirus;guttatus;Panulirus guttatus;1
 25;1;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;8:55;ND;3;5;ND;ND;2;Panulirus;argus;Panulirus argus;1
-25;1;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Noe Castellanos Marrufo;8:55;ND;3;5;ND;ND;3;ND;ND;ND ND;0
+25;1;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Noe Castellanos Marrufo;8:55;ND;3;5;ND;ND;3;NA;NA;NA;0
 25;1;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Noe Castellanos Marrufo;8:55;ND;3;5;ND;ND;4;Panulirus;argus;Panulirus argus;1
 25;1;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;8:55;ND;3;5;ND;ND;5;Eucidaris;tribuloides;Eucidaris tribuloides;1
-25;1;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;8:55;ND;3;4;ND;ND;6;ND;ND;ND ND;0
+25;1;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;8:55;ND;3;4;ND;ND;6;NA;NA;NA;0
 25;1;2013;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;11:00;ND;5;4;ND;ND;1;Stenopus;hispidus;Stenopus hispidus;1
 25;1;2013;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;11:00;ND;5;4;ND;ND;1;Eucidaris;tribuloides;Eucidaris tribuloides;2
 25;1;2013;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;11:00;ND;5;4;ND;ND;1;Strombus;gigas;Strombus gigas;1
@@ -185,7 +185,7 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 2;2;2013;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;8:45;ND;4;4;26;ND;5;Strombus;gigas;Strombus gigas;7
 2;2;2013;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;8:45;ND;4;4;26;ND;6;Eucidaris;tribuloides;Eucidaris tribuloides;1
 2;2;2013;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;8:45;ND;4;4;26;ND;6;Strombus;gigas;Strombus gigas;1
-2;2;2013;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;8:45;ND;4;4;26;ND;6;ND;ND;ND ND;0
+2;2;2013;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;8:45;ND;4;4;26;ND;6;NA;NA;NA;0
 2;2;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;10:30;ND;4;4;26;ND;1;Eucidaris;tribuloides;Eucidaris tribuloides;2
 2;2;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;10:30;ND;4;4;26;ND;1;Panulirus;argus;Panulirus argus;2
 2;2;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;10:30;ND;4;4;26;ND;1;Panulirus;guttatus;Panulirus guttatus;1
@@ -195,13 +195,13 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 2;2;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Noe Castellanos Marrufo;10:30;ND;4;4;26;ND;4;Tripneustes;esculentus;Tripneustes esculentus;1
 2;2;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Noe Castellanos Marrufo;10:30;ND;4;4;26;ND;4;Eucidaris;tribuloides;Eucidaris tribuloides;1
 2;2;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Noe Castellanos Marrufo;10:30;ND;4;4;26;ND;4;Panulirus;guttatus;Panulirus guttatus;2
-2;2;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;10:30;ND;4;4;26;ND;5;ND;ND;ND ND;0
+2;2;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;10:30;ND;4;4;26;ND;5;NA;NA;NA;0
 2;2;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;10:30;ND;4;4;26;ND;6;Panulirus;argus;Panulirus argus;2
 25;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal;19.35063;-87.41262;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;25;7;28;ND;1;Stenopus;hispidus;Stenopus hispidus;4
-26;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal;19.35063;-87.41262;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;ND;ND;25;12;28;ND;2;ND;ND;ND ND;0
+26;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal;19.35063;-87.41262;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;ND;ND;25;12;28;ND;2;NA;NA;NA;0
 25;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal;19.35063;-87.41262;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;ND;ND;25;7;28;ND;3;Stenopus;hispidus;Stenopus hispidus;1
 26;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal;19.35063;-87.41262;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;25;12;28;ND;4;Stenopus;hispidus;Stenopus hispidus;3
-26;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal;19.35063;-87.41262;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;ND;ND;25;12;28;ND;5;ND;ND;ND ND;0
+26;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal;19.35063;-87.41262;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;ND;ND;25;12;28;ND;5;NA;NA;NA;0
 26;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal;19.35063;-87.41262;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;ND;ND;25;12;28;ND;6;Stenopus;hispidus;Stenopus hispidus;4
 26;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal;19.35063;-87.41262;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;ND;ND;25;12;28;ND;6;Strombus;gigas;Strombus gigas;1
 25;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal;19.35063;-87.41262;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;25;7;28;ND;7;Stenopus;hispidus;Stenopus hispidus;7
@@ -215,14 +215,14 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 27;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal (Control);19.35837;-87.41777;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;ND;ND;20;20;ND;ND;1;Stenopus;hispidus;Stenopus hispidus;2
 27;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal (Control);19.35837;-87.41777;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;ND;ND;20;20;ND;ND;1;Diadema;antillarum;Diadema antillarum;2
 27;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal (Control);19.35837;-87.41777;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;ND;ND;20;20;ND;ND;1;Eucidaris;tribuloides;Eucidaris tribuloides;1
-27;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal (Control);19.35837;-87.41777;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;ND;ND;20;20;ND;ND;2;ND;ND;ND ND;0
+27;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal (Control);19.35837;-87.41777;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;ND;ND;20;20;ND;ND;2;NA;NA;NA;0
 27;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal (Control);19.35837;-87.41777;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;20;20;ND;ND;3;Stenopus;hispidus;Stenopus hispidus;1
 27;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal (Control);19.35837;-87.41777;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;20;20;ND;ND;3;Panulirus;argus;Panulirus argus;3
 27;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal (Control);19.35837;-87.41777;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;20;7;ND;ND;3;Pterois;volitans;Pterois volitans;1
 27;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal (Control);19.35837;-87.41777;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;ND;ND;20;7;ND;ND;4;Stenopus;hispidus;Stenopus hispidus;1
 27;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal (Control);19.35837;-87.41777;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;ND;ND;20;7;ND;ND;4;Diadema;antillarum;Diadema antillarum;2
 27;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal (Control);19.35837;-87.41777;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;ND;ND;20;7;ND;ND;4;Eucidaris;tribuloides;Eucidaris tribuloides;2
-27;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal (Control);19.35837;-87.41777;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;ND;ND;20;7;ND;ND;5;ND;ND;ND ND;0
+27;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal (Control);19.35837;-87.41777;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;ND;ND;20;7;ND;ND;5;NA;NA;NA;0
 27;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal (Control);19.35837;-87.41777;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;20;7;ND;ND;6;Panulirus;argus;Panulirus argus;1
 27;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal (Control);19.35837;-87.41777;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;20;7;ND;ND;6;Pterois;volitans;Pterois volitans;3
 27;4;2013;Quintana Roo;Punta Herrero;Anegado de Chal (Control);19.35837;-87.41777;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;20;7;ND;ND;7;Stenopus;hispidus;Stenopus hispidus;3
@@ -237,8 +237,8 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 24;4;2013;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Marco Antonio Gonzalez;15:30;ND;4;4;28;ND;1;Strombus;gigas;Strombus gigas;1
 24;4;2013;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Marco Antonio Gonzalez;15:30;ND;4;4;28;ND;2;Diadema;antillarum;Diadema antillarum;2
 24;4;2013;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Marco Antonio Gonzalez;15:30;ND;4;4;28;ND;2;Eucidaris;tribuloides;Eucidaris tribuloides;1
-24;4;2013;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;15:30;ND;4;4;28;ND;3;ND;ND;ND ND;0
-24;4;2013;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;15:30;ND;4;25;28;ND;4;ND;ND;ND ND;0
+24;4;2013;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;15:30;ND;4;4;28;ND;3;NA;NA;NA;0
+24;4;2013;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;15:30;ND;4;25;28;ND;4;NA;NA;NA;0
 24;4;2013;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;15:30;ND;4;25;28;ND;5;Diadema;antillarum;Diadema antillarum;3
 24;4;2013;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;15:30;ND;4;25;28;ND;5;Strombus;gigas;Strombus gigas;1
 24;4;2013;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;15:30;ND;4;25;28;ND;6;Diadema;antillarum;Diadema antillarum;1
@@ -304,7 +304,7 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 25;4;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;7;7;28;ND;4;Eucidaris;tribuloides;Eucidaris tribuloides;1
 25;4;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;7;7;28;ND;4;Panulirus;argus;Panulirus argus;1
 25;4;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;ND;ND;7;3;28;ND;5;Eucidaris;tribuloides;Eucidaris tribuloides;3
-25;4;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;ND;ND;7;3;28;ND;6;ND;ND;ND ND;0
+25;4;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;ND;ND;7;3;28;ND;6;NA;NA;NA;0
 25;4;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;ND;ND;7;3;28;ND;7;Diadema;antillarum;Diadema antillarum;1
 25;4;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;ND;ND;7;3;28;ND;7;Panulirus;argus;Panulirus argus;4
 25;4;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;7;3;28;ND;8;Stenopus;hispidus;Stenopus hispidus;2
@@ -315,27 +315,27 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 25;4;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;7;3;28;ND;9;Stenopus;hispidus;Stenopus hispidus;4
 25;4;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;7;3;28;ND;9;Diadema;antillarum;Diadema antillarum;1
 25;4;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;7;3;28;ND;9;Pterois;volitans;Pterois volitans;1
-25;4;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;7;3;28;ND;10;ND;ND;ND ND;0
-26;5;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;14;28;ND;1;ND;ND;ND ND;0
+25;4;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;7;3;28;ND;10;NA;NA;NA;0
+26;5;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;14;28;ND;1;NA;NA;NA;0
 26;5;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;14;28;ND;2;Strombus;gigas;Strombus gigas;2
 26;5;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;14;28;ND;3;Strombus;gigas;Strombus gigas;1
-26;5;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;14;28;ND;4;ND;ND;ND ND;0
-26;5;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;14;28;ND;5;ND;ND;ND ND;0
-26;5;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;14;28;ND;6;ND;ND;ND ND;0
-26;5;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;14;28;ND;7;ND;ND;ND ND;0
-26;5;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;14;28;ND;8;ND;ND;ND ND;0
-26;5;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;14;28;ND;9;ND;ND;ND ND;0
-26;5;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;14;28;ND;10;ND;ND;ND ND;0
-26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;14;28;ND;1;ND;ND;ND ND;0
-26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;14;28;ND;2;ND;ND;ND ND;0
+26;5;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;14;28;ND;4;NA;NA;NA;0
+26;5;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;14;28;ND;5;NA;NA;NA;0
+26;5;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;14;28;ND;6;NA;NA;NA;0
+26;5;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;14;28;ND;7;NA;NA;NA;0
+26;5;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;14;28;ND;8;NA;NA;NA;0
+26;5;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;14;28;ND;9;NA;NA;NA;0
+26;5;2013;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;14;28;ND;10;NA;NA;NA;0
+26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;14;28;ND;1;NA;NA;NA;0
+26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;14;28;ND;2;NA;NA;NA;0
 26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;14;28;ND;3;Panulirus;argus;Panulirus argus;1
-26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;5;28;ND;4;ND;ND;ND ND;0
-26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;5;28;ND;5;ND;ND;ND ND;0
-26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;5;28;ND;6;ND;ND;ND ND;0
-26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;5;28;ND;7;ND;ND;ND ND;0
-26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;5;28;ND;8;ND;ND;ND ND;0
-26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;5;28;ND;9;ND;ND;ND ND;0
-26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;5;28;ND;10;ND;ND;ND ND;0
+26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;5;28;ND;4;NA;NA;NA;0
+26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;5;28;ND;5;NA;NA;NA;0
+26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;5;28;ND;6;NA;NA;NA;0
+26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;5;28;ND;7;NA;NA;NA;0
+26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;5;28;ND;8;NA;NA;NA;0
+26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;5;28;ND;9;NA;NA;NA;0
+26;5;2013;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;5;28;ND;10;NA;NA;NA;0
 24;5;2013;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;7;28;ND;1;Strombus;gigas;Strombus gigas;2
 24;5;2013;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;7;28;ND;2;Eucidaris;tribuloides;Eucidaris tribuloides;2
 24;5;2013;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;6;28;ND;3;Eucidaris;tribuloides;Eucidaris tribuloides;2
@@ -345,7 +345,7 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 24;5;2013;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;6;28;ND;5;Stenopus;hispidus;Stenopus hispidus;1
 24;5;2013;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;6;28;ND;5;Eucidaris;tribuloides;Eucidaris tribuloides;2
 24;5;2013;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;6;28;ND;5;Panulirus;argus;Panulirus argus;1
-24;5;2013;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;6;28;ND;6;ND;ND;ND ND;0
+24;5;2013;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;6;28;ND;6;NA;NA;NA;0
 24;5;2013;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;6;28;ND;7;Strombus;gigas;Strombus gigas;2
 24;5;2013;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;6;28;ND;8;Strombus;gigas;Strombus gigas;1
 24;5;2013;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;6;28;ND;9;Eucidaris;tribuloides;Eucidaris tribuloides;2
@@ -360,8 +360,8 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 24;5;2013;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;14;28;ND;5;Eucidaris;tribuloides;Eucidaris tribuloides;1
 24;5;2013;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;14;28;ND;5;Panulirus;argus;Panulirus argus;1
 24;5;2013;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;14;28;ND;5;Strombus;gigas;Strombus gigas;1
-24;5;2013;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;14;28;ND;6;ND;ND;ND ND;0
-24;5;2013;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;14;28;ND;7;ND;ND;ND ND;0
+24;5;2013;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;14;28;ND;6;NA;NA;NA;0
+24;5;2013;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;14;28;ND;7;NA;NA;NA;0
 24;5;2013;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;14;28;ND;8;Strombus;gigas;Strombus gigas;4
 24;5;2013;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;14;28;ND;9;Strombus;gigas;Strombus gigas;2
 24;5;2013;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;14;28;ND;10;Octopus;sp.;Octopus sp.;5
@@ -370,24 +370,24 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 25;5;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;14;28;ND;2;Panulirus;argus;Panulirus argus;4
 25;5;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;14;28;ND;3;Panulirus;argus;Panulirus argus;1
 25;5;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;14;28;ND;3;Panulirus;guttatus;Panulirus guttatus;1
-25;5;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;6;28;ND;4;ND;ND;ND ND;0
-25;5;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;6;28;ND;5;ND;ND;ND ND;0
-25;5;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;6;28;ND;6;ND;ND;ND ND;0
+25;5;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;6;28;ND;4;NA;NA;NA;0
+25;5;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;6;28;ND;5;NA;NA;NA;0
+25;5;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;6;28;ND;6;NA;NA;NA;0
 25;5;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;6;28;ND;7;Stenopus;hispidus;Stenopus hispidus;1
 25;5;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;6;28;ND;7;Panulirus;argus;Panulirus argus;1
-25;5;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;6;28;ND;8;ND;ND;ND ND;0
-25;5;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;6;28;ND;9;ND;ND;ND ND;0
+25;5;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;6;28;ND;8;NA;NA;NA;0
+25;5;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;6;28;ND;9;NA;NA;NA;0
 25;5;2013;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;6;28;ND;10;Strombus;gigas;Strombus gigas;1
-25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;6;28;ND;1;ND;ND;ND ND;0
-25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;6;28;ND;2;ND;ND;ND ND;0
-25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;6;28;ND;3;ND;ND;ND ND;3
-25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;6;28;ND;4;ND;ND;ND ND;0
-25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;6;28;ND;5;ND;ND;ND ND;0
-25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;6;28;ND;6;ND;ND;ND ND;0
+25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;6;28;ND;1;NA;NA;NA;0
+25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;6;28;ND;2;NA;NA;NA;0
+25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;6;28;ND;3;NA;NA;NA;3
+25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;6;28;ND;4;NA;NA;NA;0
+25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;6;28;ND;5;NA;NA;NA;0
+25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;6;28;ND;6;NA;NA;NA;0
 25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;6;28;ND;7;Diadema;antillarum;Diadema antillarum;1
-25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;6;28;ND;8;ND;ND;ND ND;0
-25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;6;28;ND;9;ND;ND;ND ND;0
-25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;14;28;ND;10;ND;ND;ND ND;0
+25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;6;28;ND;8;NA;NA;NA;0
+25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;6;28;ND;9;NA;NA;NA;0
+25;5;2013;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;ND;ND;ND;14;28;ND;10;NA;NA;NA;0
 14;6;2013;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Jaime Alberto Medina Alavez;10:00;ND;7;5;29;ND;1;Stenopus;hispidus;Stenopus hispidus;1
 14;6;2013;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Jaime Alberto Medina Alavez;10:00;ND;7;5;29;ND;1;Strombus;gigas;Strombus gigas;1
 14;6;2013;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Jaime Alberto Medina Alavez;10:00;ND;7;5;29;ND;2;Stenopus;hispidus;Stenopus hispidus;1
@@ -419,24 +419,24 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 14;6;2013;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;12:00;ND;6;1;29;ND;6;Stenopus;hispidus;Stenopus hispidus;2
 14;6;2013;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alex Rodrigo Villanueva Puc;12:00;ND;6;1;29;ND;7;Panulirus;argus;Panulirus argus;1
 14;6;2013;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alex Rodrigo Villanueva Puc;12:00;ND;6;1;29;ND;7;Strombus;gigas;Strombus gigas;1
-14;6;2013;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alex Rodrigo Villanueva Puc;12:00;ND;6;1;29;ND;8;ND;ND;ND ND;0
+14;6;2013;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alex Rodrigo Villanueva Puc;12:00;ND;6;1;29;ND;8;NA;NA;NA;0
 15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Jaime Alberto Medina Alavez;10:00;ND;14;1;29;ND;1;Stenopus;hispidus;Stenopus hispidus;3
-15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Jaime Alberto Medina Alavez;10:00;ND;14;1;29;ND;2;ND;ND;ND ND;0
-15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Jose Francisco Puc Torres;10:00;ND;14;5;29;ND;3;ND;ND;ND ND;0
+15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Jaime Alberto Medina Alavez;10:00;ND;14;1;29;ND;2;NA;NA;NA;0
+15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Jose Francisco Puc Torres;10:00;ND;14;5;29;ND;3;NA;NA;NA;0
 15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Jose Francisco Puc Torres;10:00;ND;14;5;29;ND;4;Strombus;gigas;Strombus gigas;2
 15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;10:00;ND;14;5;29;ND;5;Stenopus;hispidus;Stenopus hispidus;13
 15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;10:00;ND;14;5;29;ND;5;Pterois;volitans;Pterois volitans;1
 15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;10:00;ND;14;5;29;ND;6;Stenopus;hispidus;Stenopus hispidus;2
 15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;10:00;ND;14;5;29;ND;6;Diadema;antillarum;Diadema antillarum;3
 15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;10:00;ND;14;5;29;ND;6;Eucidaris;tribuloides;Eucidaris tribuloides;1
-15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Alex Rodrigo Villanueva Puc;10:00;ND;14;5;29;ND;7;ND;ND;ND ND;0
-15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Alex Rodrigo Villanueva Puc;10:00;ND;14;5;29;ND;8;ND;ND;ND ND;0
-15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;10:00;ND;14;5;29;ND;9;ND;ND;ND ND;0
+15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Alex Rodrigo Villanueva Puc;10:00;ND;14;5;29;ND;7;NA;NA;NA;0
+15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Alex Rodrigo Villanueva Puc;10:00;ND;14;5;29;ND;8;NA;NA;NA;0
+15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;10:00;ND;14;5;29;ND;9;NA;NA;NA;0
 15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;10:00;ND;14;5;29;ND;10;Stenopus;hispidus;Stenopus hispidus;1
 15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;10:00;ND;14;5;29;ND;10;Strombus;gigas;Strombus gigas;1
 15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;10:00;ND;14;5;29;ND;10;Holothuroidea;sp.;Holothuroidea sp.;1
-15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jaime Alberto Medina Alavez;12:00;ND;6;5;29;ND;1;ND;ND;ND ND;0
-15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jaime Alberto Medina Alavez;12:00;ND;6;5;29;ND;2;ND;ND;ND ND;0
+15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jaime Alberto Medina Alavez;12:00;ND;6;5;29;ND;1;NA;NA;NA;0
+15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jaime Alberto Medina Alavez;12:00;ND;6;5;29;ND;2;NA;NA;NA;0
 15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jose Francisco Puc Torres;12:00;ND;6;5;29;ND;3;Stenopus;hispidus;Stenopus hispidus;1
 15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jose Francisco Puc Torres;12:00;ND;6;5;29;ND;3;Diadema;antillarum;Diadema antillarum;3
 15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jose Francisco Puc Torres;12:00;ND;6;5;29;ND;3;Eucidaris;tribuloides;Eucidaris tribuloides;6
@@ -448,17 +448,17 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;12:00;ND;6;5;29;ND;5;Eucidaris;tribuloides;Eucidaris tribuloides;1
 15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;12:00;ND;6;5;29;ND;6;Stenopus;hispidus;Stenopus hispidus;7
 15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;12:00;ND;6;5;29;ND;6;Diadema;antillarum;Diadema antillarum;1
-15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alex Rodrigo Villanueva Puc;12:00;ND;6;5;29;ND;7;ND;ND;ND ND;0
-15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alex Rodrigo Villanueva Puc;12:00;ND;6;5;29;ND;8;ND;ND;ND ND;0
-15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:00;ND;6;5;29;ND;9;ND;ND;ND ND;0
-15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:00;ND;6;5;29;ND;10;ND;ND;ND ND;0
+15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alex Rodrigo Villanueva Puc;12:00;ND;6;5;29;ND;7;NA;NA;NA;0
+15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alex Rodrigo Villanueva Puc;12:00;ND;6;5;29;ND;8;NA;NA;NA;0
+15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:00;ND;6;5;29;ND;9;NA;NA;NA;0
+15;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:00;ND;6;5;29;ND;10;NA;NA;NA;0
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Jaime Alberto Medina Alavez;10:00;ND;14;4;29;ND;1;Pterois;volitans;Pterois volitans;1
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Jaime Alberto Medina Alavez;10:00;ND;14;4;29;ND;2;Pterois;volitans;Pterois volitans;ND
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Jose Francisco Puc Torres;10:00;ND;14;4;29;ND;3;Diadema;antillarum;Diadema antillarum;1
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Jose Francisco Puc Torres;10:00;ND;14;4;29;ND;3;Eucidaris;tribuloides;Eucidaris tribuloides;2
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Jose Francisco Puc Torres;10:00;ND;14;4;29;ND;3;Strombus;gigas;Strombus gigas;3
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Jose Francisco Puc Torres;10:00;ND;14;4;29;ND;4;Strombus;gigas;Strombus gigas;2
-16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;10:00;ND;14;4;29;ND;5;ND;ND;ND ND;0
+16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;10:00;ND;14;4;29;ND;5;NA;NA;NA;0
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;10:00;ND;14;4;29;ND;6;Stenopus;hispidus;Stenopus hispidus;5
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;10:00;ND;14;4;29;ND;6;Diadema;antillarum;Diadema antillarum;1
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;10:00;ND;14;4;29;ND;6;Pterois;volitans;Pterois volitans;2
@@ -466,8 +466,8 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Alex Rodrigo Villanueva Puc;10:00;ND;14;4;29;ND;7;Pterois;volitans;Pterois volitans;1
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;10:00;ND;14;4;29;ND;9;Strombus;gigas;Strombus gigas;1
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;10:00;ND;14;4;29;ND;10;Strombus;gigas;Strombus gigas;2
-16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jaime Alberto Medina Alavez;12:00;ND;5;4;29;ND;1;ND;ND;ND ND;0
-16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;jaime Alberto Medina Alavez;12:00;ND;5;4;29;ND;2;ND;ND;ND ND;0
+16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jaime Alberto Medina Alavez;12:00;ND;5;4;29;ND;1;NA;NA;NA;0
+16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;jaime Alberto Medina Alavez;12:00;ND;5;4;29;ND;2;NA;NA;NA;0
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jose Francisco Puc Torres;12:00;ND;5;4;29;ND;3;Diadema;antillarum;Diadema antillarum;9
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jose Francisco Puc Torres;12:00;ND;5;4;29;ND;3;Eucidaris;tribuloides;Eucidaris tribuloides;4
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jose Francisco Puc Torres;12:00;ND;5;4;29;ND;4;Diadema;antillarum;Diadema antillarum;3
@@ -477,9 +477,9 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;12:00;ND;5;4;29;ND;5;Pterois;volitans;Pterois volitans;1
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;12:00;ND;5;3;29;ND;6;Stenopus;hispidus;Stenopus hispidus;4
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;12:00;ND;5;3;29;ND;6;Strombus;gigas;Strombus gigas;5
-16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alex Rodrigo Villanueva Puc;12:00;ND;5;3;29;ND;7;ND;ND;ND ND;0
+16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alex Rodrigo Villanueva Puc;12:00;ND;5;3;29;ND;7;NA;NA;NA;0
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alex Rodrigo Villanueva Puc;12:00;ND;5;3;29;ND;8;Strombus;gigas;Strombus gigas;2
-16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alex Rodrigo Villanueva Puc;12:00;ND;5;3;29;ND;8;ND;ND;ND ND;0
+16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alex Rodrigo Villanueva Puc;12:00;ND;5;3;29;ND;8;NA;NA;NA;0
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:00;ND;5;3;29;ND;9;Strombus;gigas;Strombus gigas;2
 16;6;2013;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:00;ND;5;3;29;ND;10;Strombus;gigas;Strombus gigas;2
 30;9;2013;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;9:30;ND;1;3;29;ND;1;Diadema;antillarum;Diadema antillarum;1
@@ -495,18 +495,18 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 30;9;2013;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:30;ND;1;3;29;ND;8;Diadema;antillarum;Diadema antillarum;1
 30;9;2013;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:30;ND;1;3;29;ND;9;Diadema;antillarum;Diadema antillarum;4
 30;9;2013;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:30;ND;1;3;29;ND;10;Diadema;antillarum;Diadema antillarum;2
-30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;15:30;ND;1;3;29;ND;1;ND;ND;ND ND;0
+30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;15:30;ND;1;3;29;ND;1;NA;NA;NA;0
 30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;15:30;ND;1;3;29;ND;2;Eucidaris;tribuloides;Eucidaris tribuloides;2
 30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;15:30;ND;1;3;29;ND;3;Stenopus;hispidus;Stenopus hispidus;2
 30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;15:30;ND;1;3;29;ND;3;Diadema;antillarum;Diadema antillarum;1
 30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;15:30;ND;1;3;29;ND;4;Stenopus;hispidus;Stenopus hispidus;1
 30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;15:30;ND;1;3;29;ND;4;Diadema;antillarum;Diadema antillarum;2
-30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Juan Soberanis;15:30;ND;1;3;29;ND;5;ND;ND;ND ND;0
-30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Juan Soberanis;15:30;ND;1;3;29;ND;6;ND;ND;ND ND;0
-30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;15:30;ND;1;3;29;ND;7;ND;ND;ND ND;0
-30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;15:30;ND;1;3;29;ND;8;ND;ND;ND ND;0
-30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;15:30;ND;1;3;29;ND;9;ND;ND;ND ND;0
-30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;15:30;ND;1;3;29;ND;10;ND;ND;ND ND;0
+30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Juan Soberanis;15:30;ND;1;3;29;ND;5;NA;NA;NA;0
+30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Juan Soberanis;15:30;ND;1;3;29;ND;6;NA;NA;NA;0
+30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;15:30;ND;1;3;29;ND;7;NA;NA;NA;0
+30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;15:30;ND;1;3;29;ND;8;NA;NA;NA;0
+30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;15:30;ND;1;3;29;ND;9;NA;NA;NA;0
+30;9;2013;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;15:30;ND;1;3;29;ND;10;NA;NA;NA;0
 1;10;2013;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Erick Balam;16:00;ND;ND;3;30;ND;1;Diadema;antillarum;Diadema antillarum;7
 1;10;2013;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Erick Balam;16:00;ND;ND;3;30;ND;1;Eucidaris;tribuloides;Eucidaris tribuloides;1
 1;10;2013;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Erick Balam;16:00;ND;ND;3;30;ND;2;Diadema;antillarum;Diadema antillarum;4
@@ -534,11 +534,11 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 1;10;2013;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Marco Antonio Gonzalez;16:00;ND;ND;6;30;ND;9;Diadema;antillarum;Diadema antillarum;2
 1;10;2013;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Marco Antonio Gonzalez;16:00;ND;ND;6;30;ND;10;Stenopus;hispidus;Stenopus hispidus;2
 1;10;2013;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Marco Antonio Gonzalez;16:00;ND;ND;6;30;ND;10;Strombus;gigas;Strombus gigas;1
-1;10;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;11:30;ND;ND;3;30;ND;1;ND;ND;ND ND;0
-1;10;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;11:30;ND;ND;3;30;ND;2;ND;ND;ND ND;0
+1;10;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;11:30;ND;ND;3;30;ND;1;NA;NA;NA;0
+1;10;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;11:30;ND;ND;3;30;ND;2;NA;NA;NA;0
 1;10;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;11:30;ND;ND;3;30;ND;3;Pterois;volitans;Pterois volitans;3
-1;10;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;11:30;ND;ND;3;30;ND;4;ND;ND;ND ND;0
-1;10;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;11:30;ND;ND;3;30;ND;5;ND;ND;ND ND;0
+1;10;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;11:30;ND;ND;3;30;ND;4;NA;NA;NA;0
+1;10;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;11:30;ND;ND;3;30;ND;5;NA;NA;NA;0
 1;10;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;11:30;ND;ND;3;30;ND;6;Diadema;antillarum;Diadema antillarum;1
 1;10;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;11:30;ND;ND;3;30;ND;7;Stenopus;hispidus;Stenopus hispidus;3
 1;10;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;11:30;ND;ND;3;30;ND;7;Diadema;antillarum;Diadema antillarum;1
@@ -546,8 +546,8 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 1;10;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;11:30;ND;ND;3;30;ND;8;Stenopus;hispidus;Stenopus hispidus;2
 1;10;2013;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;11:30;ND;ND;3;30;ND;8;Octopus;sp.;Octopus sp.;1
 18;3;2014;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;10:30;ND;3;14;26;ND;1;Panulirus;argus;Panulirus argus;1
-18;3;2014;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;10:30;ND;3;14;26;ND;2;ND;ND;ND ND;0
-18;3;2014;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Noe Castellanos Marrufo;10:30;ND;3;14;26;ND;3;ND;ND;ND ND;0
+18;3;2014;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;10:30;ND;3;14;26;ND;2;NA;NA;NA;0
+18;3;2014;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Noe Castellanos Marrufo;10:30;ND;3;14;26;ND;3;NA;NA;NA;0
 18;3;2014;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Noe Castellanos Marrufo;10:30;ND;3;14;26;ND;4;Panulirus;argus;Panulirus argus;6
 18;3;2014;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Bertha Aguirre;10:30;ND;3;14;26;ND;5;Otros;erizos;Otros erizos;1
 18;3;2014;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Bertha Aguirre;10:30;ND;3;14;26;ND;5;Panulirus;guttatus;Panulirus guttatus;1
@@ -555,30 +555,30 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 18;3;2014;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Bertha Aguirre;10:30;ND;3;6;26;ND;6;Stenopus;hispidus;Stenopus hispidus;1
 18;3;2014;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Bertha Aguirre;10:30;ND;3;6;26;ND;6;Otros;erizos;Otros erizos;2
 18;3;2014;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Bertha Aguirre;10:30;ND;3;6;26;ND;6;Panulirus;argus;Panulirus argus;1
-18;3;2014;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;10:30;ND;3;6;26;ND;7;ND;ND;ND ND;0
+18;3;2014;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;10:30;ND;3;6;26;ND;7;NA;NA;NA;0
 18;3;2014;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;10:30;ND;3;6;26;ND;8;Strombus;gigas;Strombus gigas;1
-18;3;2014;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;10:30;ND;3;6;26;ND;9;ND;ND;ND ND;0
-18;3;2014;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;10:30;ND;3;6;26;ND;10;ND;ND;ND ND;0
+18;3;2014;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;10:30;ND;3;6;26;ND;9;NA;NA;NA;0
+18;3;2014;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;10:30;ND;3;6;26;ND;10;NA;NA;NA;0
 18;3;2014;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;12:00;ND;3;6;26;ND;1;Panulirus;argus;Panulirus argus;1
 18;3;2014;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;12:00;ND;3;6;26;ND;2;Panulirus;argus;Panulirus argus;1
 18;3;2014;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;12:00;ND;3;6;26;ND;2;Pterois;volitans;Pterois volitans;1
 18;3;2014;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Noe Castellanos Marrufo;12:00;ND;3;6;26;ND;3;Pterois;volitans;Pterois volitans;1
 18;3;2014;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Noe Castellanos Marrufo;12:00;ND;3;5;26;ND;4;Panulirus;argus;Panulirus argus;3
 18;3;2014;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Noe Castellanos Marrufo;12:00;ND;3;5;26;ND;4;Holothuroidea;sp.;Holothuroidea sp.;1
-18;3;2014;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Bertha Aguirre;12:00;ND;3;5;26;ND;5;ND;ND;ND ND;0
+18;3;2014;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Bertha Aguirre;12:00;ND;3;5;26;ND;5;NA;NA;NA;0
 18;3;2014;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Bertha Aguirre;12:00;ND;3;5;26;ND;6;Otros;erizos;Otros erizos;1
 18;3;2014;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;12:00;ND;3;5;26;ND;7;Panulirus;guttatus;Panulirus guttatus;1
-18;3;2014;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;12:00;ND;3;5;26;ND;8;ND;ND;ND ND;0
+18;3;2014;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;12:00;ND;3;5;26;ND;8;NA;NA;NA;0
 18;3;2014;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;12:00;ND;3;5;26;ND;9;Panulirus;argus;Panulirus argus;1
 18;3;2014;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;12:00;ND;3;5;26;ND;10;Strombus;gigas;Strombus gigas;1
 20;3;2014;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;11:30;ND;6;7;27;ND;1;Diadema;antillarum;Diadema antillarum;4
 20;3;2014;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;11:30;ND;6;7;27;ND;2;Diadema;antillarum;Diadema antillarum;1
-20;3;2014;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Juan Soberanis;11:30;ND;6;7;27;ND;3;ND;ND;ND ND;0
+20;3;2014;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Juan Soberanis;11:30;ND;6;7;27;ND;3;NA;NA;NA;0
 20;3;2014;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Juan Soberanis;11:30;ND;6;7;27;ND;4;Diadema;antillarum;Diadema antillarum;1
 20;3;2014;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Marco Antonio Gonzalez;11:30;ND;6;7;27;ND;5;Strombus;gigas;Strombus gigas;1
-20;3;2014;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Marco Antonio Gonzalez;11:30;ND;6;7;27;ND;6;ND;ND;ND ND;0
-20;3;2014;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;11:30;ND;6;7;27;ND;7;ND;ND;ND ND;0
-20;3;2014;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;11:30;ND;6;7;27;ND;8;ND;ND;ND ND;0
+20;3;2014;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Marco Antonio Gonzalez;11:30;ND;6;7;27;ND;6;NA;NA;NA;0
+20;3;2014;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;11:30;ND;6;7;27;ND;7;NA;NA;NA;0
+20;3;2014;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;11:30;ND;6;7;27;ND;8;NA;NA;NA;0
 20;3;2014;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;11:30;ND;6;7;27;ND;9;Diadema;antillarum;Diadema antillarum;1
 20;3;2014;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;11:30;ND;6;7;27;ND;10;Diadema;antillarum;Diadema antillarum;1
 21;3;2014;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;11:00;ND;10;6;ND;ND;1;Diadema;antillarum;Diadema antillarum;1
@@ -587,13 +587,13 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 21;3;2014;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;11:00;ND;10;6;ND;ND;2;Strombus;gigas;Strombus gigas;1
 21;3;2014;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Juan Soberanis;11:00;ND;10;6;ND;ND;3;Diadema;antillarum;Diadema antillarum;1
 21;3;2014;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Juan Soberanis;11:00;ND;10;6;ND;ND;3;Panulirus;argus;Panulirus argus;1
-21;3;2014;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Juan Soberanis;11:00;ND;10;6;ND;ND;4;ND;ND;ND ND;0
-21;3;2014;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;11:00;ND;10;14;ND;ND;5;ND;ND;ND ND;0
+21;3;2014;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Juan Soberanis;11:00;ND;10;6;ND;ND;4;NA;NA;NA;0
+21;3;2014;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;11:00;ND;10;14;ND;ND;5;NA;NA;NA;0
 21;3;2014;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;11:00;ND;10;14;ND;ND;6;Stenopus;hispidus;Stenopus hispidus;2
-21;3;2014;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;11:00;ND;10;14;ND;ND;7;ND;ND;ND ND;0
-21;3;2014;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;11:00;ND;10;14;ND;ND;8;ND;ND;ND ND;0
+21;3;2014;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;11:00;ND;10;14;ND;ND;7;NA;NA;NA;0
+21;3;2014;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;11:00;ND;10;14;ND;ND;8;NA;NA;NA;0
 21;3;2014;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;11:00;ND;10;14;ND;ND;9;Diadema;antillarum;Diadema antillarum;1
-21;3;2014;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;11:00;ND;10;14;ND;ND;10;ND;ND;ND ND;0
+21;3;2014;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;11:00;ND;10;14;ND;ND;10;NA;NA;NA;0
 14;3;2014;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;9:00;ND;5;6;27;ND;1;Otros;erizos;Otros erizos;8
 14;3;2014;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;9:00;ND;5;6;27;ND;1;Panulirus;argus;Panulirus argus;4
 14;3;2014;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;9:00;ND;5;6;27;ND;1;Strombus;gigas;Strombus gigas;1
@@ -619,8 +619,8 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 14;3;2014;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:00;ND;5;9;27;ND;7;Panulirus;argus;Panulirus argus;2
 14;3;2014;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:00;ND;5;9;27;ND;7;Strombus;gigas;Strombus gigas;1
 14;3;2014;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:00;ND;5;9;27;ND;7;Pterois;volitans;Pterois volitans;1
-14;3;2014;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:00;ND;5;9;27;ND;8;ND;ND;ND ND;0
-14;3;2014;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:00;ND;5;9;27;ND;9;ND;ND;ND ND;0
+14;3;2014;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:00;ND;5;9;27;ND;8;NA;NA;NA;0
+14;3;2014;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:00;ND;5;9;27;ND;9;NA;NA;NA;0
 14;3;2014;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:00;ND;5;9;27;ND;10;Otros;erizos;Otros erizos;1
 14;3;2014;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:00;ND;5;10;27;ND;10;Strombus;gigas;Strombus gigas;1
 14;3;2014;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:00;ND;5;10;27;ND;10;Pterois;volitans;Pterois volitans;1
@@ -646,7 +646,7 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 14;3;2014;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;11:00;ND;4;12;27;ND;8;Strombus;gigas;Strombus gigas;15
 14;3;2014;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;11:00;ND;4;12;27;ND;9;Strombus;gigas;Strombus gigas;3
 14;3;2014;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;11:00;ND;4;12;27;ND;9;Holothuroidea;sp.;Holothuroidea sp.;1
-14;3;2014;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;11:00;ND;4;12;27;ND;10;ND;ND;ND ND;0
+14;3;2014;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;11:00;ND;4;12;27;ND;10;NA;NA;NA;0
 20;3;2014;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Baltazar Hoil;16:00;ND;ND;6;30;ND;1;Diadema;antillarum;Diadema antillarum;3
 20;3;2014;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Baltazar Hoil;16:00;ND;ND;6;30;ND;2;Stenopus;hispidus;Stenopus hispidus;1
 20;3;2014;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Baltazar Hoil;16:00;ND;ND;6;30;ND;2;Diadema;antillarum;Diadema antillarum;2
@@ -666,11 +666,11 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 20;3;2014;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Jacobo Caamal;16:00;ND;ND;7;30;ND;9;Panulirus;argus;Panulirus argus;21
 20;3;2014;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Jacobo Caamal;16:00;ND;ND;7;30;ND;10;Diadema;antillarum;Diadema antillarum;2
 20;3;2014;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Jacobo Caamal;16:00;ND;ND;7;30;ND;10;Otros;erizos;Otros erizos;2
-21;3;2014;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Rodrigo Pantoja;15:30;ND;9;7;ND;ND;1;ND;ND;ND ND;0
+21;3;2014;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Rodrigo Pantoja;15:30;ND;9;7;ND;ND;1;NA;NA;NA;0
 21;3;2014;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Rodrigo Pantoja;15:30;ND;9;7;ND;ND;2;Otros;erizos;Otros erizos;2
 21;3;2014;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Rodrigo Pantoja;15:30;ND;9;6;ND;ND;2;Pterois;volitans;Pterois volitans;1
-21;3;2014;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;15:30;ND;9;6;ND;ND;3;ND;ND;ND ND;0
-21;3;2014;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;15:30;ND;9;6;ND;ND;4;ND;ND;ND ND;0
+21;3;2014;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;15:30;ND;9;6;ND;ND;3;NA;NA;NA;0
+21;3;2014;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;15:30;ND;9;6;ND;ND;4;NA;NA;NA;0
 21;3;2014;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;15:30;ND;9;6;ND;ND;5;Otros;erizos;Otros erizos;2
 21;3;2014;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;15:30;ND;9;6;ND;ND;6;Panulirus;argus;Panulirus argus;1
 21;3;2014;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;15:30;ND;9;6;ND;ND;7;Otros;erizos;Otros erizos;1
@@ -682,14 +682,14 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 15;3;2014;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;9:00;ND;3;12;27;ND;2;Stenopus;hispidus;Stenopus hispidus;1
 15;3;2014;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;9:00;ND;3;12;27;ND;2;Otros;erizos;Otros erizos;2
 15;3;2014;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Noe Castellanos Marrufo;9:00;ND;3;12;27;ND;3;Pterois;volitans;Pterois volitans;1
-15;3;2014;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Noe Castellanos Marrufo;9:00;ND;3;12;27;ND;4;ND;ND;ND ND;0
+15;3;2014;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Noe Castellanos Marrufo;9:00;ND;3;12;27;ND;4;NA;NA;NA;0
 15;3;2014;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Bertha Aguirre;9:00;ND;3;12;27;ND;5;Stenopus;hispidus;Stenopus hispidus;1
 15;3;2014;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Bertha Aguirre;9:00;ND;3;14;27;ND;5;Otros;erizos;Otros erizos;1
 15;3;2014;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Bertha Aguirre;9:00;ND;3;14;27;ND;6;Panulirus;argus;Panulirus argus;1
-15;3;2014;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;9:00;ND;3;14;27;ND;7;ND;ND;ND ND;0
-15;3;2014;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;9:00;ND;3;14;27;ND;8;ND;ND;ND ND;0
-15;3;2014;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;9:00;ND;3;14;27;ND;9;ND;ND;ND ND;0
-15;3;2014;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;9:00;ND;3;14;27;ND;10;ND;ND;ND ND;0
+15;3;2014;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;9:00;ND;3;14;27;ND;7;NA;NA;NA;0
+15;3;2014;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;9:00;ND;3;14;27;ND;8;NA;NA;NA;0
+15;3;2014;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;9:00;ND;3;14;27;ND;9;NA;NA;NA;0
+15;3;2014;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;9:00;ND;3;14;27;ND;10;NA;NA;NA;0
 15;3;2014;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;10:35;ND;3;14;27;ND;1;Otros;erizos;Otros erizos;3
 15;3;2014;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;10:35;ND;3;14;27;ND;2;Panulirus;argus;Panulirus argus;4
 15;3;2014;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;10:35;ND;3;14;27;ND;2;Panulirus;guttatus;Panulirus guttatus;1
@@ -701,9 +701,9 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 15;3;2014;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Bertha Aguirre;10:35;ND;3;14;27;ND;5;Panulirus;argus;Panulirus argus;1
 15;3;2014;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Bertha Aguirre;10:35;ND;3;14;27;ND;6;Otros;erizos;Otros erizos;2
 15;3;2014;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Bertha Aguirre;10:35;ND;3;14;27;ND;6;Panulirus;argus;Panulirus argus;1
-15;3;2014;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;10:35;ND;3;14;27;ND;7;ND;ND;ND ND;0
+15;3;2014;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;10:35;ND;3;14;27;ND;7;NA;NA;NA;0
 15;3;2014;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;10:35;ND;3;14;27;ND;8;Panulirus;argus;Panulirus argus;1
-15;3;2014;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;10:35;ND;3;14;27;ND;9;ND;ND;ND ND;0
+15;3;2014;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;10:35;ND;3;14;27;ND;9;NA;NA;NA;0
 15;3;2014;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;10:35;ND;3;14;27;ND;10;Otros;erizos;Otros erizos;2
 18;3;2014;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;9:00;ND;6;5;26;ND;1;Diadema;antillarum;Diadema antillarum;1
 18;3;2014;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;9:00;ND;6;5;26;ND;1;Panulirus;argus;Panulirus argus;18
@@ -721,7 +721,7 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 18;3;2014;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Bertha Aguirre;9:00;ND;6;7;26;ND;6;Otros;erizos;Otros erizos;2
 18;3;2014;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Bertha Aguirre;9:00;ND;6;7;26;ND;6;Panulirus;argus;Panulirus argus;1
 18;3;2014;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Bertha Aguirre;9:00;ND;6;7;26;ND;6;Pterois;volitans;Pterois volitans;1
-18;3;2014;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:00;ND;6;7;26;ND;7;ND;ND;ND ND;0
+18;3;2014;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:00;ND;6;7;26;ND;7;NA;NA;NA;0
 18;3;2014;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:00;ND;6;7;26;ND;8;Diadema;antillarum;Diadema antillarum;1
 18;3;2014;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:00;ND;6;7;26;ND;8;Panulirus;argus;Panulirus argus;1
 18;3;2014;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:00;ND;6;7;26;ND;8;Strombus;gigas;Strombus gigas;5
@@ -734,7 +734,7 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 12;5;2014;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Alberto Juarez Rosas;12:00;ND;12;14;28;ND;2;Stenopus;hispidus;Stenopus hispidus;4
 12;5;2014;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Alberto Juarez Rosas;12:00;ND;12;14;28;ND;2;Panulirus;argus;Panulirus argus;1
 12;5;2014;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Alberto Juarez Rosas;12:00;ND;12;14;28;ND;2;Pterois;volitans;Pterois volitans;1
-12;5;2014;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;12:00;ND;12;14;28;ND;3;ND;ND;ND ND;0
+12;5;2014;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;12:00;ND;12;14;28;ND;3;NA;NA;NA;0
 12;5;2014;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;12:00;ND;12;14;28;ND;4;Stenopus;hispidus;Stenopus hispidus;1
 12;5;2014;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;12:00;ND;12;14;28;ND;4;Pterois;volitans;Pterois volitans;1
 12;5;2014;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Yareni Perera;12:00;ND;12;14;28;ND;5;Stenopus;hispidus;Stenopus hispidus;2
@@ -744,7 +744,7 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 12;5;2014;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Stuart Fulton;12:00;ND;12;14;28;ND;7;Strombus;gigas;Strombus gigas;3
 12;5;2014;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Stuart Fulton;12:00;ND;12;6;28;ND;8;Panulirus;argus;Panulirus argus;1
 12;5;2014;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Stuart Fulton;12:00;ND;12;6;28;ND;8;Strombus;gigas;Strombus gigas;1
-12;5;2014;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Stuart Fulton;12:00;ND;12;6;28;ND;9;ND;ND;ND ND;0
+12;5;2014;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Stuart Fulton;12:00;ND;12;6;28;ND;9;NA;NA;NA;0
 12;5;2014;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Stuart Fulton;12:00;ND;12;6;28;ND;10;Strombus;gigas;Strombus gigas;2
 12;5;2014;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Stuart Fulton;12:00;ND;12;6;28;ND;10;Pterois;volitans;Pterois volitans;1
 15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;11:10;ND;7;5;28;ND;1;Stenopus;hispidus;Stenopus hispidus;1
@@ -756,20 +756,20 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Stuart Fulton;11:10;ND;7;5;28;ND;5;Strombus;gigas;Strombus gigas;1
 15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Stuart Fulton;11:10;ND;7;5;28;ND;6;Strombus;gigas;Strombus gigas;2
 15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Stuart Fulton;11:10;ND;7;5;28;ND;7;Strombus;gigas;Strombus gigas;1
-15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Stuart Fulton;11:10;ND;7;5;28;ND;8;ND;ND;ND ND;0
+15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Stuart Fulton;11:10;ND;7;5;28;ND;8;NA;NA;NA;0
 15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Guillermo Miravete Sarmientos;11:10;ND;7;5;28;ND;9;Stenopus;hispidus;Stenopus hispidus;2
 15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Guillermo Miravete Sarmientos;11:10;ND;7;5;28;ND;9;Panulirus;argus;Panulirus argus;1
 15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Guillermo Miravete Sarmientos;11:10;ND;7;5;28;ND;9;Strombus;gigas;Strombus gigas;6
 15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Guillermo Miravete Sarmientos;11:10;ND;7;5;28;ND;10;Stenopus;hispidus;Stenopus hispidus;2
 15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Guillermo Miravete Sarmientos;11:10;ND;7;5;28;ND;10;Strombus;gigas;Strombus gigas;5
 15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;12:40;ND;6;5;28;ND;1;Strombus;gigas;Strombus gigas;1
-15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;12:40;ND;6;5;28;ND;2;ND;ND;ND ND;0
-15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alberto Juarez Rosas;12:40;ND;6;5;28;ND;3;ND;ND;ND ND;0
-15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alberto Juarez Rosas;12:40;ND;6;5;28;ND;4;ND;ND;ND ND;0
-15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:40;ND;6;5;28;ND;5;ND;ND;ND ND;0
-15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:40;ND;6;5;28;ND;6;ND;ND;ND ND;0
-15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:40;ND;6;5;28;ND;7;ND;ND;ND ND;0
-15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:40;ND;6;5;28;ND;8;ND;ND;ND ND;0
+15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;12:40;ND;6;5;28;ND;2;NA;NA;NA;0
+15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alberto Juarez Rosas;12:40;ND;6;5;28;ND;3;NA;NA;NA;0
+15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alberto Juarez Rosas;12:40;ND;6;5;28;ND;4;NA;NA;NA;0
+15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:40;ND;6;5;28;ND;5;NA;NA;NA;0
+15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:40;ND;6;5;28;ND;6;NA;NA;NA;0
+15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:40;ND;6;5;28;ND;7;NA;NA;NA;0
+15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:40;ND;6;5;28;ND;8;NA;NA;NA;0
 15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Guillermo Miravete Sarmientos;12:40;ND;6;12;28;ND;9;Stenopus;hispidus;Stenopus hispidus;2
 15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Guillermo Miravete Sarmientos;12:40;ND;6;12;28;ND;9;Diadema;antillarum;Diadema antillarum;1
 15;5;2014;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Guillermo Miravete Sarmientos;12:40;ND;6;12;28;ND;9;Octopus;sp.;Octopus sp.;1
@@ -781,42 +781,42 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Alberto Juarez Rosas;11:30;ND;14;6;28;ND;1;Holothuroidea;sp.;Holothuroidea sp.;1
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Alberto Juarez Rosas;11:30;ND;14;6;28;ND;1;Pterois;volitans;Pterois volitans;1
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Alberto Juarez Rosas;11:30;ND;14;6;28;ND;2;Stenopus;hispidus;Stenopus hispidus;4
-13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;11:30;ND;14;6;28;ND;3;ND;ND;ND ND;0
+13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;11:30;ND;14;6;28;ND;3;NA;NA;NA;0
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;11:30;ND;14;6;28;ND;4;Stenopus;hispidus;Stenopus hispidus;4
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Yareni Perera;11:30;ND;14;6;28;ND;5;Stenopus;hispidus;Stenopus hispidus;1
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Yareni Perera;11:30;ND;14;6;28;ND;5;Diadema;antillarum;Diadema antillarum;1
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Yareni Perera;11:30;ND;14;6;28;ND;6;Stenopus;hispidus;Stenopus hispidus;1
-13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;11:30;ND;14;6;28;ND;7;ND;ND;ND ND;0
+13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;11:30;ND;14;6;28;ND;7;NA;NA;NA;0
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;11:30;ND;14;6;28;ND;8;Pterois;volitans;Pterois volitans;3
-13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;11:30;ND;14;6;28;ND;9;ND;ND;ND ND;0
+13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;11:30;ND;14;6;28;ND;9;NA;NA;NA;0
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;11:30;ND;14;6;28;ND;10;Strombus;gigas;Strombus gigas;2
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;11:30;ND;14;6;28;ND;10;Pterois;volitans;Pterois volitans;1
 14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alberto Juarez Rosas;10:20;ND;6;14;28;ND;1;Stenopus;hispidus;Stenopus hispidus;2
-14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alberto Juarez Rosas;10:20;ND;6;14;28;ND;2;ND;ND;ND ND;0
+14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alberto Juarez Rosas;10:20;ND;6;14;28;ND;2;NA;NA;NA;0
 14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;10:20;ND;6;14;28;ND;3;Strombus;gigas;Strombus gigas;2
-14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;10:20;ND;6;14;28;ND;4;ND;ND;ND ND;0
+14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;10:20;ND;6;14;28;ND;4;NA;NA;NA;0
 14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Yareni Perera;10:20;ND;6;14;28;ND;5;Stenopus;hispidus;Stenopus hispidus;2
 14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Yareni Perera;10:20;ND;6;14;28;ND;6;Stenopus;hispidus;Stenopus hispidus;1
 14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Yareni Perera;10:20;ND;6;14;28;ND;6;Diadema;antillarum;Diadema antillarum;1
 14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Yareni Perera;10:20;ND;6;14;28;ND;6;Otros;erizos;Otros erizos;8
-14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;10:20;ND;6;14;28;ND;7;ND;ND;ND ND;0
-14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;10:20;ND;6;14;28;ND;8;ND;ND;ND ND;0
-14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;10:20;ND;6;14;28;ND;9;ND;ND;ND ND;0
-14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;10:20;ND;6;14;28;ND;10;ND;ND;ND ND;0
+14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;10:20;ND;6;14;28;ND;7;NA;NA;NA;0
+14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;10:20;ND;6;14;28;ND;8;NA;NA;NA;0
+14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;10:20;ND;6;14;28;ND;9;NA;NA;NA;0
+14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;10:20;ND;6;14;28;ND;10;NA;NA;NA;0
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Alberto Juarez Rosas;9:30;ND;14;6;28;ND;1;Stenopus;hispidus;Stenopus hispidus;4
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Alberto Juarez Rosas;9:30;ND;14;6;28;ND;1;Strombus;gigas;Strombus gigas;1
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Alberto Juarez Rosas;9:30;ND;14;6;28;ND;1;Pterois;volitans;Pterois volitans;1
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Alberto Juarez Rosas;9:30;ND;14;6;28;ND;2;Stenopus;hispidus;Stenopus hispidus;3
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Alberto Juarez Rosas;9:30;ND;14;6;28;ND;2;Panulirus;argus;Panulirus argus;1
-13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;9:30;ND;14;6;28;ND;3;ND;ND;ND ND;0
-13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;9:30;ND;14;14;28;ND;4;ND;ND;ND ND;0
+13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;9:30;ND;14;6;28;ND;3;NA;NA;NA;0
+13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;9:30;ND;14;14;28;ND;4;NA;NA;NA;0
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Yareni Perera;9:30;ND;14;14;28;ND;5;Stenopus;hispidus;Stenopus hispidus;5
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Yareni Perera;9:30;ND;14;14;28;ND;6;Stenopus;hispidus;Stenopus hispidus;3
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;9:30;ND;14;14;28;ND;7;Pterois;volitans;Pterois volitans;1
-13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;9:30;ND;14;14;28;ND;8;ND;ND;ND ND;0
+13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;9:30;ND;14;14;28;ND;8;NA;NA;NA;0
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;9:30;ND;14;14;28;ND;9;Strombus;gigas;Strombus gigas;2
 13;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Stuart Fulton;9:30;ND;14;14;28;ND;10;Strombus;gigas;Strombus gigas;4
-14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alberto Juarez Rosas;12:05;ND;5;14;28;ND;1;ND;ND;ND ND;0
+14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alberto Juarez Rosas;12:05;ND;5;14;28;ND;1;NA;NA;NA;0
 14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Alberto Juarez Rosas;12:05;ND;5;14;28;ND;2;Strombus;gigas;Strombus gigas;2
 14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;12:05;ND;5;14;28;ND;3;Stenopus;hispidus;Stenopus hispidus;2
 14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Carlos Enrique Ojeda Colli;12:05;ND;5;14;28;ND;3;Strombus;gigas;Strombus gigas;3
@@ -829,9 +829,9 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Yareni Perera;12:05;ND;5;5;28;ND;6;Holothuroidea;sp.;Holothuroidea sp.;2
 14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:05;ND;5;5;28;ND;7;Diadema;antillarum;Diadema antillarum;1
 14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:05;ND;5;5;28;ND;7;Strombus;gigas;Strombus gigas;1
-14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:05;ND;5;5;28;ND;8;ND;ND;ND ND;0
-14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:05;ND;5;5;28;ND;9;ND;ND;ND ND;0
-14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:05;ND;5;5;28;ND;10;ND;ND;ND ND;0
+14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:05;ND;5;5;28;ND;8;NA;NA;NA;0
+14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:05;ND;5;5;28;ND;9;NA;NA;NA;0
+14;5;2014;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Stuart Fulton;12:05;ND;5;5;28;ND;10;NA;NA;NA;0
 19;3;2015;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;1;Panulirus;argus;Panulirus argus;1
 19;3;2015;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;2;Panulirus;argus;Panulirus argus;6
 19;3;2015;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;3;Panulirus;argus;Panulirus argus;1
@@ -839,22 +839,22 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 19;3;2015;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;3;Panulirus;guttatus;Panulirus guttatus;1
 19;3;2015;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;4;Panulirus;argus;Panulirus argus;3
 19;3;2015;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;4;Strombus;gigas;Strombus gigas;11
-19;3;2015;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;5;ND;ND;ND ND;0
-19;3;2015;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;6;ND;ND;ND ND;0
-19;3;2015;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;7;ND;ND;ND ND;0
-19;3;2015;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;8;ND;ND;ND ND;0
-19;3;2015;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;9;ND;ND;ND ND;0
-19;3;2015;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;10;ND;ND;ND ND;0
+19;3;2015;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;5;NA;NA;NA;0
+19;3;2015;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;6;NA;NA;NA;0
+19;3;2015;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;7;NA;NA;NA;0
+19;3;2015;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;8;NA;NA;NA;0
+19;3;2015;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;9;NA;NA;NA;0
+19;3;2015;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;10;NA;NA;NA;0
 19;3;2015;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;1;Panulirus;guttatus;Panulirus guttatus;1
 19;3;2015;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;2;Strombus;gigas;Strombus gigas;1
 19;3;2015;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;12;ND;ND;3;Panulirus;guttatus;Panulirus guttatus;1
 19;3;2015;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;4;Panulirus;argus;Panulirus argus;1
 19;3;2015;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;5;Panulirus;argus;Panulirus argus;1
 19;3;2015;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;6;Panulirus;guttatus;Panulirus guttatus;1
-19;3;2015;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;7;ND;ND;ND ND;0
-19;3;2015;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;8;ND;ND;ND ND;0
-19;3;2015;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;9;ND;ND;ND ND;0
-19;3;2015;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;10;ND;ND;ND ND;0
+19;3;2015;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;7;NA;NA;NA;0
+19;3;2015;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;8;NA;NA;NA;0
+19;3;2015;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;9;NA;NA;NA;0
+19;3;2015;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;10;NA;NA;NA;0
 21;3;2015;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;1;Otros;erizos;Otros erizos;3
 21;3;2015;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;1;Panulirus;argus;Panulirus argus;6
 21;3;2015;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;1;Pterois;volitans;Pterois volitans;1
@@ -875,7 +875,7 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 21;3;2015;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;8;Strombus;gigas;Strombus gigas;8
 21;3;2015;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;9;Otros;erizos;Otros erizos;2
 21;3;2015;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;9;Strombus;gigas;Strombus gigas;6
-21;3;2015;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;10;ND;ND;ND ND;0
+21;3;2015;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;10;NA;NA;NA;0
 21;3;2015;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;1;Panulirus;argus;Panulirus argus;4
 21;3;2015;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;1;Strombus;gigas;Strombus gigas;2
 21;3;2015;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;2;Otros;erizos;Otros erizos;2
@@ -889,8 +889,8 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 21;3;2015;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;5;Panulirus;argus;Panulirus argus;5
 21;3;2015;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;5;Strombus;gigas;Strombus gigas;2
 21;3;2015;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;6;Strombus;gigas;Strombus gigas;7
-21;3;2015;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;7;ND;ND;ND ND;0
-21;3;2015;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;8;ND;ND;ND ND;0
+21;3;2015;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;7;NA;NA;NA;0
+21;3;2015;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;8;NA;NA;NA;0
 21;3;2015;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;9;Strombus;gigas;Strombus gigas;1
 21;3;2015;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;10;Pterois;volitans;Pterois volitans;1
 20;3;2015;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;1;Stenopus;hispidus;Stenopus hispidus;1
@@ -903,11 +903,11 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 20;3;2015;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;4;Panulirus;argus;Panulirus argus;1
 20;3;2015;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;5;Panulirus;argus;Panulirus argus;2
 20;3;2015;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;5;Diadema;antillarum;Diadema antillarum;1
-20;3;2015;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;6;ND;ND;ND ND;0
-20;3;2015;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;7;ND;ND;ND ND;0
-20;3;2015;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;8;ND;ND;ND ND;0
-20;3;2015;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;9;ND;ND;ND ND;0
-20;3;2015;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;10;ND;ND;ND ND;0
+20;3;2015;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;6;NA;NA;NA;0
+20;3;2015;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;7;NA;NA;NA;0
+20;3;2015;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;8;NA;NA;NA;0
+20;3;2015;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;9;NA;NA;NA;0
+20;3;2015;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;10;NA;NA;NA;0
 20;3;2015;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;1;Otros;erizos;Otros erizos;2
 20;3;2015;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;1;Panulirus;argus;Panulirus argus;1
 20;3;2015;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;2;Otros;erizos;Otros erizos;3
@@ -921,11 +921,11 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 20;3;2015;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;4;Panulirus;guttatus;Panulirus guttatus;1
 20;3;2015;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;5;Diadema;antillarum;Diadema antillarum;3
 20;3;2015;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;5;Otros;erizos;Otros erizos;15
-20;3;2015;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;6;ND;ND;ND ND;0
-20;3;2015;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;7;ND;ND;ND ND;0
+20;3;2015;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;6;NA;NA;NA;0
+20;3;2015;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;7;NA;NA;NA;0
 20;3;2015;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;8;Pterois;volitans;Pterois volitans;1
-20;3;2015;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;9;ND;ND;ND ND;0
-20;3;2015;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;10;ND;ND;ND ND;0
+20;3;2015;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;9;NA;NA;NA;0
+20;3;2015;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;10;NA;NA;NA;0
 20;3;2015;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;1;Otros;erizos;Otros erizos;5
 20;3;2015;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;1;Strombus;gigas;Strombus gigas;3
 20;3;2015;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;1;Pterois;volitans;Pterois volitans;1
@@ -941,10 +941,10 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 20;3;2015;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;5;Panulirus;guttatus;Panulirus guttatus;2
 20;3;2015;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;ND;ND;ND;ND;ND;ND;5;Pterois;volitans;Pterois volitans;3
 20;3;2015;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;6;Strombus;gigas;Strombus gigas;2
-20;3;2015;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;7;ND;ND;ND ND;0
+20;3;2015;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;7;NA;NA;NA;0
 20;3;2015;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;8;Strombus;gigas;Strombus gigas;3
-20;3;2015;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;9;ND;ND;ND ND;0
-20;3;2015;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;10;ND;ND;ND ND;0
+20;3;2015;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;9;NA;NA;NA;0
+20;3;2015;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;10;NA;NA;NA;0
 1;5;2015;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;11:52;ND;ND;ND;ND;ND;1;Diadema;antillarum;Diadema antillarum;1
 1;5;2015;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;11:52;ND;ND;ND;ND;ND;1;Panulirus;argus;Panulirus argus;1
 1;5;2015;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;11:52;ND;ND;ND;ND;ND;2;Diadema;antillarum;Diadema antillarum;2
@@ -955,11 +955,11 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 1;5;2015;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Marco Antonio Gonzalez;11:52;ND;ND;ND;ND;ND;4;Otros;erizos;Otros erizos;1
 1;5;2015;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;11:52;ND;ND;ND;ND;ND;5;Diadema;antillarum;Diadema antillarum;1
 1;5;2015;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;11:52;ND;ND;ND;ND;ND;6;Diadema;antillarum;Diadema antillarum;4
-1;5;2015;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;11:52;ND;ND;ND;ND;ND;7;ND;ND;ND ND;0
-1;5;2015;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;11:52;ND;ND;ND;ND;ND;8;ND;ND;ND ND;0
+1;5;2015;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;11:52;ND;ND;ND;ND;ND;7;NA;NA;NA;0
+1;5;2015;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;11:52;ND;ND;ND;ND;ND;8;NA;NA;NA;0
 1;5;2015;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;11:52;ND;ND;ND;ND;ND;9;Diadema;antillarum;Diadema antillarum;1
 1;5;2015;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Stuart Fulton;11:52;ND;ND;ND;ND;ND;10;Diadema;antillarum;Diadema antillarum;2
-1;5;2015;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;9:33;ND;ND;ND;ND;ND;1;ND;ND;ND ND;0
+1;5;2015;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;9:33;ND;ND;ND;ND;ND;1;NA;NA;NA;0
 1;5;2015;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;9:33;ND;ND;ND;ND;ND;2;Stenopus;hispidus;Stenopus hispidus;1
 1;5;2015;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;9:33;ND;ND;ND;ND;ND;2;Strombus;gigas;Strombus gigas;1
 1;5;2015;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;9:33;ND;ND;ND;ND;ND;3;Stenopus;hispidus;Stenopus hispidus;6
@@ -967,12 +967,12 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 1;5;2015;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;9:33;ND;ND;ND;ND;ND;3;Strombus;gigas;Strombus gigas;1
 1;5;2015;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;9:33;ND;ND;ND;ND;ND;4;Stenopus;hispidus;Stenopus hispidus;6
 1;5;2015;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;9:33;ND;ND;ND;ND;ND;4;Diadema;antillarum;Diadema antillarum;3
-1;5;2015;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;9:33;ND;ND;ND;ND;ND;5;ND;ND;ND ND;0
-1;5;2015;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;9:33;ND;ND;ND;ND;ND;6;ND;ND;ND ND;0
-1;5;2015;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;9:33;ND;ND;ND;ND;ND;7;ND;ND;ND ND;0
+1;5;2015;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;9:33;ND;ND;ND;ND;ND;5;NA;NA;NA;0
+1;5;2015;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;9:33;ND;ND;ND;ND;ND;6;NA;NA;NA;0
+1;5;2015;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;9:33;ND;ND;ND;ND;ND;7;NA;NA;NA;0
 1;5;2015;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;9:33;ND;ND;ND;ND;ND;8;Panulirus;argus;Panulirus argus;1
 1;5;2015;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;9:33;ND;ND;ND;ND;ND;9;Strombus;gigas;Strombus gigas;1
-1;5;2015;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;9:33;ND;ND;ND;ND;ND;10;ND;ND;ND ND;0
+1;5;2015;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Stuart Fulton;9:33;ND;ND;ND;ND;ND;10;NA;NA;NA;0
 31;5;2015;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Jose Castro;ND;ND;12;ND;28;ND;1;Stenopus;hispidus;Stenopus hispidus;3
 31;5;2015;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Jose Castro;ND;ND;12;ND;28;ND;1;Otros;erizos;Otros erizos;1
 31;5;2015;Quintana Roo;Banco Chinchorro;Los Gonzalez;18.58342;-87.4175;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;Jose Castro;ND;ND;12;ND;28;ND;1;Strombus;gigas;Strombus gigas;2
@@ -1013,18 +1013,18 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 2;5;2015;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Jacobo Caamal;9:03;ND;ND;ND;ND;ND;8;Panulirus;argus;Panulirus argus;6
 2;5;2015;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Stuart Fulton;9:03;ND;ND;ND;ND;ND;9;Panulirus;argus;Panulirus argus;2
 2;5;2015;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Stuart Fulton;9:03;ND;ND;ND;ND;ND;10;Panulirus;argus;Panulirus argus;3
-1;5;2015;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;16:05;ND;ND;ND;ND;ND;1;ND;ND;ND ND;0
+1;5;2015;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;16:05;ND;ND;ND;ND;ND;1;NA;NA;NA;0
 1;5;2015;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;16:05;ND;ND;ND;ND;ND;2;Stenopus;hispidus;Stenopus hispidus;1
-1;5;2015;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;16:05;ND;ND;ND;ND;ND;3;ND;ND;ND ND;0
+1;5;2015;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;16:05;ND;ND;ND;ND;ND;3;NA;NA;NA;0
 1;5;2015;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;16:05;ND;ND;ND;ND;ND;4;Stenopus;hispidus;Stenopus hispidus;2
 1;5;2015;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;16:05;ND;ND;ND;ND;ND;4;Panulirus;argus;Panulirus argus;1
-1;5;2015;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;16:05;ND;ND;ND;ND;ND;5;ND;ND;ND ND;0
+1;5;2015;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;16:05;ND;ND;ND;ND;ND;5;NA;NA;NA;0
 1;5;2015;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Balam;16:05;ND;ND;ND;ND;ND;6;Panulirus;argus;Panulirus argus;3
 1;5;2015;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;16:05;ND;ND;ND;ND;ND;7;Panulirus;argus;Panulirus argus;4
-1;5;2015;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;16:05;ND;ND;ND;ND;ND;8;ND;ND;ND ND;0
+1;5;2015;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;16:05;ND;ND;ND;ND;ND;8;NA;NA;NA;0
 1;5;2015;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;16:05;ND;ND;ND;ND;ND;9;Stenopus;hispidus;Stenopus hispidus;4
 1;5;2015;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;16:05;ND;ND;ND;ND;ND;9;Otros;erizos;Otros erizos;2
-1;5;2015;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;16:05;ND;ND;ND;ND;ND;10;ND;ND;ND ND;0
+1;5;2015;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;16:05;ND;ND;ND;ND;ND;10;NA;NA;NA;0
 28;5;2015;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;William Balam;ND;ND;7;ND;28;ND;1;Stenopus;hispidus;Stenopus hispidus;3
 28;5;2015;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;William Balam;ND;ND;7;ND;28;ND;2;Stenopus;hispidus;Stenopus hispidus;1
 28;5;2015;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Banco Chinchorro;William Balam;ND;ND;7;ND;28;ND;2;Diadema;antillarum;Diadema antillarum;2
@@ -1052,11 +1052,11 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 28;5;2015;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;William Balam;ND;ND;6;ND;28;ND;3;Strombus;gigas;Strombus gigas;1
 28;5;2015;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;ND;ND;6;ND;28;ND;4;Strombus;gigas;Strombus gigas;1
 28;5;2015;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;ND;ND;6;ND;28;ND;5;Panulirus;argus;Panulirus argus;1
-28;5;2015;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;ND;ND;6;ND;28;ND;6;ND;ND;ND ND;0
-28;5;2015;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jose Castro;ND;ND;6;ND;28;ND;7;ND;ND;ND ND;0
-28;5;2015;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jose Castro;ND;ND;6;ND;28;ND;8;ND;ND;ND ND;0
+28;5;2015;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Erik Leonel Xicum Mendoza;ND;ND;6;ND;28;ND;6;NA;NA;NA;0
+28;5;2015;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jose Castro;ND;ND;6;ND;28;ND;7;NA;NA;NA;0
+28;5;2015;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jose Castro;ND;ND;6;ND;28;ND;8;NA;NA;NA;0
 28;5;2015;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jose Castro;ND;ND;6;ND;28;ND;9;Strombus;gigas;Strombus gigas;1
-28;5;2015;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jacobo Caamal;ND;ND;6;ND;28;ND;10;ND;ND;ND ND;0
+28;5;2015;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;Jacobo Caamal;ND;ND;6;ND;28;ND;10;NA;NA;NA;0
 29;5;2015;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;William Balam;ND;ND;14;ND;28;ND;1;Stenopus;hispidus;Stenopus hispidus;3
 29;5;2015;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;William Balam;ND;ND;14;ND;28;ND;1;Diadema;antillarum;Diadema antillarum;1
 29;5;2015;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;William Balam;ND;ND;14;ND;28;ND;1;Otros;erizos;Otros erizos;1
@@ -1076,7 +1076,7 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 29;5;2015;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Jose Castro;ND;ND;14;ND;28;ND;8;Otros;erizos;Otros erizos;3
 29;5;2015;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Jose Castro;ND;ND;14;ND;28;ND;9;Stenopus;hispidus;Stenopus hispidus;1
 29;5;2015;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Jose Castro;ND;ND;14;ND;28;ND;9;Otros;erizos;Otros erizos;3
-29;5;2015;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Jacobo Caamal;ND;ND;14;ND;28;ND;10;ND;ND;ND ND;0
+29;5;2015;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Banco Chinchorro;Jacobo Caamal;ND;ND;14;ND;28;ND;10;NA;NA;NA;0
 29;5;2015;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;William Balam;ND;ND;6;ND;28;ND;1;Stenopus;hispidus;Stenopus hispidus;1
 29;5;2015;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;William Balam;ND;ND;6;ND;28;ND;1;Otros;erizos;Otros erizos;2
 29;5;2015;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Banco Chinchorro;William Balam;ND;ND;6;ND;28;ND;2;Stenopus;hispidus;Stenopus hispidus;3
@@ -1169,21 +1169,21 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 17;4;2016;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;12:12;ND;3.3;3.3;ND;ND;4;Stenopus;hispidus;Stenopus hispidus;3
 17;4;2016;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;12:12;ND;3.3;3.3;ND;ND;4;Diadema;antillarum;Diadema antillarum;2
 17;4;2016;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;12:12;ND;3.3;3.3;ND;ND;4;Otros;erizos;Otros erizos;1
-17;4;2016;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;12:30;ND;4;4;ND;ND;5;ND;ND;ND ND;0
-17;4;2016;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Carlos Alberto Tziu;11:55;ND;3.5;3.5;ND;ND;7;ND;ND;ND ND;0
+17;4;2016;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;12:30;ND;4;4;ND;ND;5;NA;NA;NA;0
+17;4;2016;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Carlos Alberto Tziu;11:55;ND;3.5;3.5;ND;ND;7;NA;NA;NA;0
 17;4;2016;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Carlos Alberto Tziu;12:12;ND;4;4;ND;ND;8;Stenopus;hispidus;Stenopus hispidus;1
 17;4;2016;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Carlos Alberto Tziu;12:12;ND;4;4;ND;ND;8;Strombus;gigas;Strombus gigas;3
 17;4;2016;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Carlos Alberto Tziu;12:18;ND;5;5;ND;ND;9;Strombus;gigas;Strombus gigas;1
-17;4;2016;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;3.4;3.4;ND;ND;10;ND;ND;ND ND;0
+17;4;2016;Quintana Roo;Maria Elena;Cabezo;19.39949;-87.45519;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;3.4;3.4;ND;ND;10;NA;NA;NA;0
 17;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;13:00;ND;7.4;7.4;ND;ND;1;Otros;erizos;Otros erizos;1
 17;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;13:00;ND;7.4;7.4;ND;ND;1;Panulirus;argus;Panulirus argus;1
 17;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;13:00;ND;7.4;7.4;ND;ND;2;Panulirus;argus;Panulirus argus;9
 17;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;13:00;ND;7.4;7.4;ND;ND;3;Panulirus;argus;Panulirus argus;3
 17;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;13:00;ND;7.4;7.4;ND;ND;3;Panulirus;guttatus;Panulirus guttatus;2
 17;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;13:00;ND;7.4;7.4;ND;ND;3;Pterois;volitans;Pterois volitans;2
-27;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;ND;ND;9;9;ND;ND;3;ND;ND;ND ND;0
+27;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;ND;ND;9;9;ND;ND;3;NA;NA;NA;0
 17;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Sergio Marcos;13:18;ND;3.8;3.8;ND;ND;4;Diadema;antillarum;Diadema antillarum;1
-27;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;ND;ND;9;9;ND;ND;4;ND;ND;ND ND;0
+27;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;ND;ND;9;9;ND;ND;4;NA;NA;NA;0
 17;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Sergio Marcos;13:42;ND;ND;ND;ND;ND;5;Panulirus;argus;Panulirus argus;10
 17;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Sergio Marcos;13:42;ND;ND;ND;ND;ND;5;Panulirus;guttatus;Panulirus guttatus;1
 17;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Sergio Marcos;13:57;ND;6.1;6.1;ND;ND;6;Panulirus;argus;Panulirus argus;3
@@ -1192,14 +1192,14 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 17;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Carlos Alberto Tziu;13:15;ND;5;5;ND;ND;7;Panulirus;argus;Panulirus argus;1
 17;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Carlos Alberto Tziu;13:15;ND;5;5;ND;ND;7;Strombus;gigas;Strombus gigas;1
 17;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Carlos Alberto Tziu;13:40;ND;6;6;ND;ND;8;Strombus;gigas;Strombus gigas;1
-17;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Carlos Alberto Tziu;13:50;ND;5;5;ND;ND;9;ND;ND;ND ND;0
-17;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;13:45;ND;6.5;6.5;ND;ND;10;ND;ND;ND ND;0
+17;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Carlos Alberto Tziu;13:50;ND;5;5;ND;ND;9;NA;NA;NA;0
+17;4;2016;Quintana Roo;Maria Elena;Cabezo (Control);19.39314;-87.45577;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;13:45;ND;6.5;6.5;ND;ND;10;NA;NA;NA;0
 27;4;2016;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;ND;ND;9;9;ND;ND;1;Strombus;gigas;Strombus gigas;2
-27;4;2016;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;ND;ND;9;9;ND;ND;2;ND;ND;ND ND;0
+27;4;2016;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Balam;ND;ND;9;9;ND;ND;2;NA;NA;NA;0
 27;4;2016;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;ND;ND;9;9;ND;ND;3;Strombus;gigas;Strombus gigas;2
 27;4;2016;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;ND;ND;9;9;ND;ND;4;Diadema;antillarum;Diadema antillarum;1
 27;4;2016;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;ND;ND;9;9;ND;ND;4;Strombus;gigas;Strombus gigas;11
-27;4;2016;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;9;9;ND;ND;5;ND;ND;ND ND;0
+27;4;2016;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;9;9;ND;ND;5;NA;NA;NA;0
 27;4;2016;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;9;9;ND;ND;6;Stenopus;hispidus;Stenopus hispidus;3
 27;4;2016;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;9;9;ND;ND;6;Panulirus;argus;Panulirus argus;1
 27;4;2016;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;9;9;ND;ND;6;Strombus;gigas;Strombus gigas;3
@@ -1210,18 +1210,18 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 27;4;2016;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;9;9;ND;ND;9;Strombus;gigas;Strombus gigas;3
 27;4;2016;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;9;9;ND;ND;10;Panulirus;argus;Panulirus argus;1
 27;4;2016;Quintana Roo;Punta Herrero;El Faro;19.30091;-87.4435;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;9;9;ND;ND;10;Strombus;gigas;Strombus gigas;2
-27;4;2016;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;ND;ND;15;15;ND;ND;3;ND;ND;ND ND;0
-27;4;2016;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;ND;ND;15;15;ND;ND;4;ND;ND;ND ND;0
+27;4;2016;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;ND;ND;15;15;ND;ND;3;NA;NA;NA;0
+27;4;2016;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Baltazar Hoil;ND;ND;15;15;ND;ND;4;NA;NA;NA;0
 27;4;2016;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;15;3;ND;ND;5;Stenopus;hispidus;Stenopus hispidus;1
 27;4;2016;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;15;3;ND;ND;6;Stenopus;hispidus;Stenopus hispidus;5
 27;4;2016;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;15;3;ND;ND;6;Diadema;antillarum;Diadema antillarum;1
 27;4;2016;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;15;3;ND;ND;6;Panulirus;argus;Panulirus argus;1
-27;4;2016;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;17;17;ND;ND;7;ND;ND;ND ND;0
+27;4;2016;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;17;17;ND;ND;7;NA;NA;NA;0
 27;4;2016;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;ND;8;ND;ND;8;Stenopus;hispidus;Stenopus hispidus;4
 27;4;2016;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;ND;3;ND;ND;8;Strombus;gigas;Strombus gigas;1
 27;4;2016;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;16;16;ND;ND;9;Panulirus;argus;Panulirus argus;2
 27;4;2016;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;16;16;ND;ND;9;Strombus;gigas;Strombus gigas;2
-27;4;2016;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;16;16;ND;ND;10;ND;ND;ND ND;0
+27;4;2016;Quintana Roo;Punta Herrero;El Faro (Control);19.33807;-87.41743;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;16;16;ND;ND;10;NA;NA;NA;0
 14;4;2016;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;9:40;ND;4.6;4.6;ND;ND;1;Stenopus;hispidus;Stenopus hispidus;1
 14;4;2016;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;9:40;ND;4.6;4.6;ND;ND;1;Otros;erizos;Otros erizos;2
 14;4;2016;Quintana Roo;Maria Elena;El Gallinero;19.41254;-87.46046;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;9:40;ND;4.6;4.6;ND;ND;1;Panulirus;argus;Panulirus argus;3
@@ -1271,11 +1271,11 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 14;4;2016;Quintana Roo;Maria Elena;El Gallinero (Control);ND;ND;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Carlos Alberto Tziu;ND;ND;3;3;ND;ND;9;Strombus;gigas;Strombus gigas;3
 14;4;2016;Quintana Roo;Maria Elena;El Gallinero (Control);19.40712;-87.45648;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;10;Panulirus;argus;Panulirus argus;1
 28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Erick Balam;ND;ND;3;3;ND;ND;1;Diadema;antillarum;Diadema antillarum;28
-28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Erick Balam;ND;ND;3;3;ND;ND;1;otros;erizos;otros erizos;8
+28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Erick Balam;ND;ND;3;3;ND;ND;1;otros;erizos;Otros erizos;8
 28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Erick Balam;ND;ND;3;3;ND;ND;2;Diadema;antillarum;Diadema antillarum;8
 28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;ND;ND;3;3;ND;ND;3;Diadema;antillarum;Diadema antillarum;1
 28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;ND;ND;3;3;ND;ND;3;Panulirus;argus;Panulirus argus;1
-28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;ND;ND;3;3;ND;ND;4;ND;ND;ND ND;0
+28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Baltazar Hoil;ND;ND;3;3;ND;ND;4;NA;NA;NA;0
 28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;3;4;ND;ND;5;Stenopus;hispidus;Stenopus hispidus;3
 28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;3;4;ND;ND;5;Diadema;antillarum;Diadema antillarum;58
 28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;3;5;ND;ND;5;Panulirus;argus;Panulirus argus;6
@@ -1284,7 +1284,7 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;3;5;ND;ND;6;Diadema;antillarum;Diadema antillarum;32
 28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Reserva comunitaria;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;3;5;ND;ND;6;Panulirus;argus;Panulirus argus;4
 28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;3;3;ND;ND;7;Stenopus;hispidus;Stenopus hispidus;4
-28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;ND;15;ND;ND;7;otros;erizos;otros erizos;1
+28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;ND;15;ND;ND;7;otros;erizos;Otros erizos;1
 28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;ND;15;ND;ND;7;Panulirus;argus;Panulirus argus;7
 28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;ND;15;ND;ND;7;Panulirus;guttatus;Panulirus guttatus;3
 28;4;2016;Quintana Roo;Punta Herrero;Manchon;19.34126;-87.44344;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;ND;15;ND;ND;7;Holothuroidea;sp.;Holothuroidea sp.;1
@@ -1297,7 +1297,7 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 27;4;2016;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;9;4;ND;ND;5;Panulirus;argus;Panulirus argus;1
 27;4;2016;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;9;4;ND;ND;6;Stenopus;hispidus;Stenopus hispidus;13
 27;4;2016;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;9;4;ND;ND;6;Diadema;antillarum;Diadema antillarum;1
-27;4;2016;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;9;4;ND;ND;6;otros;erizos;otros erizos;2
+27;4;2016;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;9;4;ND;ND;6;otros;erizos;Otros erizos;2
 27;4;2016;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;9;4;ND;ND;6;Panulirus;argus;Panulirus argus;1
 27;4;2016;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Marco Antonio Gonzalez;ND;ND;9;4;ND;ND;6;Holothuroidea;sp.;Holothuroidea sp.;1
 27;4;2016;Quintana Roo;Punta Herrero;Manchon (Control);19.37124;-87.45167;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Rodrigo Pantoja;ND;ND;ND;3;ND;ND;7;Stenopus;hispidus;Stenopus hispidus;6
@@ -1320,7 +1320,7 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 15;4;2016;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Carlos Alberto Tziu;10:26;ND;4;4;ND;ND;8;Panulirus;argus;Panulirus argus;1
 15;4;2016;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Carlos Alberto Tziu;10:35;ND;4;4;ND;ND;9;Diadema;antillarum;Diadema antillarum;3
 15;4;2016;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Carlos Alberto Tziu;10:35;ND;4;4;ND;ND;9;Panulirus;argus;Panulirus argus;3
-15;4;2016;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;4;4;ND;ND;10;ND;ND;ND ND;0
+15;4;2016;Quintana Roo;Maria Elena;Punta Loria;19.51921;-87.42758;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;4;4;ND;ND;10;NA;NA;NA;0
 15;4;2016;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;11:18;ND;3.6;3.6;ND;ND;1;Stenopus;hispidus;Stenopus hispidus;2
 15;4;2016;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;11:18;ND;3.6;3.6;ND;ND;2;Panulirus;guttatus;Panulirus guttatus;1
 15;4;2016;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Pablo Catzim Pech;11:18;ND;3.6;3.6;ND;ND;3;Otros;erizos;Otros erizos;2
@@ -1341,13 +1341,13 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 15;4;2016;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Carlos Alberto Tziu;12:14;ND;2.5;2.5;ND;ND;9;Diadema;antillarum;Diadema antillarum;6
 15;4;2016;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Carlos Alberto Tziu;12:14;ND;2.5;2.5;ND;ND;9;Panulirus;argus;Panulirus argus;3
 15;4;2016;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Carlos Alberto Tziu;12:14;ND;2.5;2.5;ND;ND;9;Octopus;sp.;Octopus sp.;1
-15;4;2016;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;11:28;ND;ND;ND;ND;ND;10;ND;ND;ND ND;0
+15;4;2016;Quintana Roo;Maria Elena;Punta Loria (Control);19.5288;-87.42542;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;11:28;ND;ND;ND;ND;ND;10;NA;NA;NA;0
 16;4;2016;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;14:05;ND;6.8;6.8;ND;ND;1;Diadema;antillarum;Diadema antillarum;1
 16;4;2016;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;14:05;ND;6.8;6.8;ND;ND;1;Panulirus;argus;Panulirus argus;21
 16;4;2016;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;14:05;ND;6.8;6.8;ND;ND;2;Panulirus;argus;Panulirus argus;37
 16;4;2016;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;14:05;ND;6.8;6.8;ND;ND;2;Panulirus;guttatus;Panulirus guttatus;1
 16;4;2016;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Pablo Catzim Pech;14:05;ND;6.9;6.9;ND;ND;3;Panulirus;argus;Panulirus argus;23
-16;4;2016;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;14:09;ND;ND;ND;ND;ND;4;ND;ND;ND ND;0
+16;4;2016;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;14:09;ND;ND;ND;ND;ND;4;NA;NA;NA;0
 16;4;2016;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;14:32;ND;3;3;ND;ND;5;Diadema;antillarum;Diadema antillarum;1
 16;4;2016;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;14:42;ND;3.9;3.9;ND;ND;6;Diadema;antillarum;Diadema antillarum;2
 16;4;2016;Quintana Roo;Maria Elena;San Roman;19.48939;-87.42848;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;14:42;ND;3.9;3.9;ND;ND;6;Strombus;gigas;Strombus gigas;2
@@ -1398,32 +1398,32 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Sian Ka'an;Alberto Juarez Rosas;10:07;10:10;8.5;ND;ND;ND;8;Strombus;gigas;Strombus gigas;4
 21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Sian Ka'an;Alberto Juarez Rosas;10:12;10:17;9.2;ND;ND;ND;9;Stenopus;hispidus;Stenopus hispidus;2
 21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Sian Ka'an;Alberto Juarez Rosas;10:12;10:17;9.2;ND;ND;ND;9;Strombus;gigas;Strombus gigas;1
-21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Sian Ka'an;Jacobo Caamal;9:40;ND;12;ND;ND;ND;10;ND;ND;ND ND;0
+21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte;18.76841;-87.32899;Arrecife coralino;No Pesca;Zona núcleo;RB Sian Ka'an;Jacobo Caamal;9:40;ND;12;ND;ND;ND;10;NA;NA;NA;0
 21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Leonel Xicum Mendoza;11:46;11:50;9.8;ND;ND;ND;1;Stenopus;hispidus;Stenopus hispidus;2
 21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Leonel Xicum Mendoza;11:46;11:50;9.8;ND;ND;ND;1;Strombus;gigas;Strombus gigas;7
-21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Leonel Xicum Mendoza;12:10;12:14;8.2;ND;ND;ND;2;ND;ND;ND ND;0
+21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Leonel Xicum Mendoza;12:10;12:14;8.2;ND;ND;ND;2;NA;NA;NA;0
 21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;William Balam;11:51;11:58;6.3;ND;ND;ND;3;Panulirus;argus;Panulirus argus;1
 21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Leonel Xicum Mendoza;12:22;12:27;8;ND;ND;ND;3;Strombus;gigas;Strombus gigas;2
-21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;William Balam;12:10;ND;6.7;ND;ND;ND;4;ND;ND;ND ND;0
+21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;William Balam;12:10;ND;6.7;ND;ND;ND;4;NA;NA;NA;0
 21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;William Balam;12:24;12:30;8.1;ND;ND;ND;5;Stenopus;hispidus;Stenopus hispidus;1
-21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Alberto Juarez Rosas;11:50;ND;7.1;ND;ND;ND;7;ND;ND;ND ND;0
+21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Alberto Juarez Rosas;11:50;ND;7.1;ND;ND;ND;7;NA;NA;NA;0
 21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Alberto Juarez Rosas;12:07;12:12;7.7;ND;ND;ND;8;Panulirus;argus;Panulirus argus;2
 21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Alberto Juarez Rosas;12:07;12:12;7.7;ND;ND;ND;8;Strombus;gigas;Strombus gigas;1
 21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Alberto Juarez Rosas;12:15;12:21;8.6;ND;ND;ND;9;Panulirus;argus;Panulirus argus;1
 21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Alberto Juarez Rosas;12:15;12:21;8.6;ND;ND;ND;9;Strombus;gigas;Strombus gigas;2
-21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;11:46;ND;7.5;ND;ND;ND;10;ND;ND;ND ND;0
+21;5;2016;Quintana Roo;Banco Chinchorro;Zona Nucleo Cayo Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;11:46;ND;7.5;ND;ND;ND;10;NA;NA;NA;0
 20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Leonel Xicum Mendoza;9:55;ND;9.5;ND;ND;ND;1;Stenopus;hispidus;Stenopus hispidus;1
 20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Leonel Xicum Mendoza;9:55;ND;9.5;ND;ND;ND;1;Eucidaris;tribuloides;Eucidaris tribuloides;1
 20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Leonel Xicum Mendoza;10:12;10:16;10.2;ND;ND;ND;2;Stenopus;hispidus;Stenopus hispidus;2
 20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Leonel Xicum Mendoza;10:12;10:16;10.2;ND;ND;ND;2;Eucidaris;tribuloides;Eucidaris tribuloides;1
-20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;ND;ND;15;ND;ND;ND;3;ND;ND;ND ND;0
+20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;ND;ND;15;ND;ND;ND;3;NA;NA;NA;0
 20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Leonel Xicum Mendoza;10:21;10:27;10.7;ND;ND;ND;3;Stenopus;hispidus;Stenopus hispidus;1
-20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;ND;ND;15;ND;ND;ND;4;ND;ND;ND ND;0
-20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;ND;ND;15;ND;ND;ND;5;ND;ND;ND ND;0
+20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;ND;ND;15;ND;ND;ND;4;NA;NA;NA;0
+20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;ND;ND;15;ND;ND;ND;5;NA;NA;NA;0
 20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Alberto Juarez Rosas;10:09;ND;11.5;ND;ND;ND;7;Stenopus;hispidus;Stenopus hispidus;1
 20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Alberto Juarez Rosas;10:20;ND;9.7;ND;ND;ND;8;Stenopus;hispidus;Stenopus hispidus;1
 20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Alberto Juarez Rosas;10:30;10:36;10.4;ND;ND;ND;9;Stenopus;hispidus;Stenopus hispidus;5
-20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:57;ND;10;ND;ND;ND;10;ND;ND;ND ND;0
+20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;9:57;ND;10;ND;ND;ND;10;NA;NA;NA;0
 20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Leonel Xicum Mendoza;11:44;ND;ND;ND;ND;ND;1;Stenopus;hispidus;Stenopus hispidus;3
 20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Leonel Xicum Mendoza;11:44;ND;ND;ND;ND;ND;1;Eucidaris;tribuloides;Eucidaris tribuloides;7
 20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Leonel Xicum Mendoza;11:44;ND;ND;ND;ND;ND;1;Panulirus;argus;Panulirus argus;1
@@ -1444,7 +1444,7 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Alberto Juarez Rosas;12:19;12:20;7.6;ND;ND;ND;8;Strombus;gigas;Strombus gigas;2
 20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Alberto Juarez Rosas;12:24;12:31;5.5;ND;ND;ND;9;Stenopus;hispidus;Stenopus hispidus;4
 20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Alberto Juarez Rosas;12:24;12:31;5.5;ND;ND;ND;9;Strombus;gigas;Strombus gigas;2
-20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;10;ND;ND;ND ND;0
+20;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Norte (Control);18.77204;-87.31446;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;10;NA;NA;NA;0
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Leonel Xicum Mendoza;ND;ND;12.4;ND;ND;ND;1;Diadema;antillarum;Diadema antillarum;1
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Leonel Xicum Mendoza;ND;ND;12.4;ND;ND;ND;1;Eucidaris;tribuloides;Eucidaris tribuloides;1
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Leonel Xicum Mendoza;ND;ND;12.4;ND;ND;ND;1;Strombus;gigas;Strombus gigas;3
@@ -1455,7 +1455,7 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Erick Leonel Xicum Mendoza;10:18;10:25;10.4;ND;ND;ND;3;Octopus;sp.;Octopus sp.;1
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;ND;9:52;13.8;ND;ND;ND;3;Stenopus;hispidus;Stenopus hispidus;2
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;ND;ND;ND;ND;ND;ND;4;Stenopus;hispidus;Stenopus hispidus;2
-19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;ND;ND;ND;ND;ND;ND;5;ND;ND;ND ND;0
+19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Sergio Marcos;ND;ND;ND;ND;ND;ND;5;NA;NA;NA;0
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Alberto Juarez Rosas;ND;ND;ND;ND;ND;ND;7;Stenopus;hispidus;Stenopus hispidus;2
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Alberto Juarez Rosas;ND;ND;ND;ND;ND;ND;7;Strombus;gigas;Strombus gigas;2
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Alberto Juarez Rosas;ND;ND;14.3;ND;ND;ND;8;Stenopus;hispidus;Stenopus hispidus;1
@@ -1463,7 +1463,7 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Alberto Juarez Rosas;ND;ND;12.3;ND;ND;ND;9;Stenopus;hispidus;Stenopus hispidus;1
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Alberto Juarez Rosas;ND;ND;12.3;ND;ND;ND;9;Octopus;sp.;Octopus sp.;3
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Alberto Juarez Rosas;ND;ND;12.3;ND;ND;ND;9;Pterois;volitans;Pterois volitans;1
-19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;14.5;ND;ND;ND;10;ND;ND;ND ND;0
+19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur;18.68282;-87.38642;Arrecife coralino;No Pesca;Refugio pesquero;RB Sian Ka'an;Jacobo Caamal;ND;ND;14.5;ND;ND;ND;10;NA;NA;NA;0
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Leonel Xicum Mendoza;11:56;12:02;5;ND;ND;ND;1;Stenopus;hispidus;Stenopus hispidus;1
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Leonel Xicum Mendoza;11:56;12:02;5;ND;ND;ND;1;Diadema;antillarum;Diadema antillarum;2
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Erick Leonel Xicum Mendoza;11:56;12:02;5;ND;ND;ND;1;Eucidaris;tribuloides;Eucidaris tribuloides;1
@@ -1485,7 +1485,7 @@ Dia;Mes;Ano;Estado;Comunidad;Sitio;Latitud;Longitud;Habitat;Zonificacion;Tipo de
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Alberto Juarez Rosas;11:47;ND;3.4;ND;ND;ND;7;Stenopus;hispidus;Stenopus hispidus;1
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Alberto Juarez Rosas;11:47;ND;3.4;ND;ND;ND;7;Panulirus;argus;Panulirus argus;1
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Alberto Juarez Rosas;11:47;ND;3.4;ND;ND;ND;7;Strombus;gigas;Strombus gigas;2
-19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Alberto Juarez Rosas;ND;ND;3.8;ND;ND;ND;8;ND;ND;ND ND;0
+19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Alberto Juarez Rosas;ND;ND;3.8;ND;ND;ND;8;NA;NA;NA;0
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Alberto Juarez Rosas;ND;12:32;3.5;ND;ND;ND;9;Diadema;antillarum;Diadema antillarum;1
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Alberto Juarez Rosas;ND;12:32;3.5;ND;ND;ND;9;Strombus;gigas;Strombus gigas;4
 19;5;2016;Quintana Roo;Banco Chinchorro;ZRP40 Cañones Sur (Control);18.68017;-87.3865;Arrecife coralino;Pesca;Ninguna;RB Sian Ka'an;Jacobo Caamal;ND;ND;ND;ND;ND;ND;10;Strombus;gigas;Strombus gigas;2
