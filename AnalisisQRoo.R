@@ -17,6 +17,8 @@ MPAreport_html <- function(peces, invertebrados, comunidad, reserva, control) {
   )
 }
 
+library(MPAtools)
+
 load("Datos/PecesSAM.RData")
 load("Datos/InvertebradosSAM.RData")
 
@@ -41,7 +43,7 @@ Reserva <- c("Cabezo",
 Control <- paste(Reserva, "(Control)", sep = " ")
 
 
-for (i in 4:length(Sitios$Comunidad)){
+for (i in 1:length(Comunidad)){
   
   comunidad <- Comunidad[i]
   reserva <- Reserva[i]
@@ -52,7 +54,28 @@ for (i in 4:length(Sitios$Comunidad)){
 }
 
 
-
+function (data, reserve = NULL, control = NULL, error.bars = F) 
+{
+  library(ggplot2)
+  library(dplyr)
+  library(tidyr)
+  if (is.null(reserve) | is.null(control)) {
+    stop("You must specify reserve and control sites")
+  }
+  colnames(data) <- c("Ano", "Zonificacion", "Sitio", "Transecto", 
+                      "Indicador")
+  data <- data %>% filter(Sitio == reserve | Sitio == control) %>% 
+    group_by(Ano, Sitio) %>% mutate(SD = sd(Indicador, na.rm = T), 
+                                    Indicator = mean(Indicador, na.rm = T))
+  p <- ggplot(data, aes(x = Ano, y = Indicator, color = Zonificacion, 
+                        pch = Sitio)) + geom_point() + geom_line() + theme_bw() + 
+    scale_color_brewer(palette = "Set1")
+  if (error.bars) {
+    p <- p + geom_errorbar(aes(ymin = Indicator - SD, ymax = Indicator + 
+                                 SD), width = 0.2)
+  }
+  p
+}
 
 
 
