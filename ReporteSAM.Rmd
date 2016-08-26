@@ -42,8 +42,6 @@ suppressPackageStartupMessages({
 
 ## Densidad
 
-____
-
 ```{r densidad peces, fig.cap = "Densidad promedio de peces (org / transecto)."}
 
 Np <- density(data = peces, location = params$comunidad)
@@ -54,11 +52,9 @@ mpa_plot3(Np, reserve = params$reserva, control = params$control, y.lab = "Densi
 
 ```{r tabla densidad peces, results = 'asis'}
 
-stargazer(turfeffect(Np, reserve = params$reserva, control = params$control), type = "html", dep.var.caption = "", dep.var.labels = "Densidad (org/transecto)", report = "v*c", single.row = T, omit.stat = c("adj.rsq", "f"), digits = 2, df = F)
+stargazer(turfeffect(Np, reserve = params$reserva, control = params$control), dep.var.labels = "Densidad (org / transecto)", type = "html", dep.var.caption = "", report = "vc*", single.row = T, omit.stat = c("adj.rsq", "n"), digits = 2, df = F, covariate.labels = c("Ano", "**Zona**", "Constante"))
 
 ```
-
-____
 
 ## Riqueza
 
@@ -70,7 +66,7 @@ mpa_plot3(Sp, reserve = params$reserva, control = params$control, y.lab = "Rique
 
 ```{r tabla riqueza peces, results = 'asis'}
 
-stargazer(turfeffect(Sp, reserve = params$reserva, control = params$control), type = "html")
+stargazer(turfeffect(Sp, reserve = params$reserva, control = params$control), dep.var.labels = "Riqueza (Sp. / transecto)", type = "html", dep.var.caption = "", report = "vc*", single.row = T, omit.stat = c("adj.rsq", "n"), digits = 2, df = F, covariate.labels = c("Ano", "**Zona**", "Constante"))
 
 ```
 
@@ -85,7 +81,7 @@ mpa_plot3(Bp, reserve = params$reserva, control = params$control, y.lab = "Bioma
 
 ```{r tabla de biomasa, results = 'asis'}
 
-stargazer(turfeffect(Bp, reserve = params$reserva, control = params$control), type = "html")
+stargazer(turfeffect(Bp, reserve = params$reserva, control = params$control), dep.var.labels = "Biomasa (Kg / transecto)", type = "html", dep.var.caption = "", report = "vc*", single.row = T, omit.stat = c("adj.rsq", "n"), digits = 2, df = F, covariate.labels = c("Ano", "**Zona**", "Constante"))
 
 ```
 
@@ -100,7 +96,7 @@ mpa_plot3(NTp, reserve = params$reserva, control = params$control, y.lab = "Nive
 
 ```{r tabla de nivel trofico, results = 'asis'}
 
-stargazer(turfeffect(NTp, reserve = params$reserva, control = params$control), type = "html")
+stargazer(turfeffect(NTp, reserve = params$reserva, control = params$control), dep.var.labels = "Nivel trofico", type = "html", dep.var.caption = "", report = "vc*", single.row = T, omit.stat = c("adj.rsq", "n"), digits = 2, df = F, covariate.labels = c("Ano", "**Zona**", "Constante"))
 
 ```
 
@@ -173,7 +169,7 @@ mpa_plot3(Ni, reserve = params$reserva, control = params$control, y.lab = "Densi
 
 ```{r tabla densidad invertebrados, results = 'asis'}
 
-stargazer(turfeffect(Ni, reserve = params$reserva, control = params$control), type = "html")
+stargazer(turfeffect(Ni, reserve = params$reserva, control = params$control), dep.var.labels = "Densidad (org / transecto)", type = "html", dep.var.caption = "", report = "vc*", single.row = T, omit.stat = c("adj.rsq", "n"), digits = 2, df = F, covariate.labels = c("Ano", "**Zona**", "Constante"))
 
 ```
 
@@ -194,7 +190,7 @@ mpa_plot3(Nlang, reserve = params$reserva, control = params$control, y.lab = "De
 
 ```{r tabla densidad langosta, results = 'asis'}
 
-stargazer(turfeffect(Nlang, reserve = params$reserva, control = params$control), type = "html")
+stargazer(turfeffect(Nlang, reserve = params$reserva, control = params$control), dep.var.labels = "Densidad (org / transecto)", type = "html", dep.var.caption = "", report = "vc*", single.row = T, omit.stat = c("adj.rsq", "n"), digits = 2, df = F, covariate.labels = c("Ano", "**Zona**", "Constante"))
 
 ```
 
@@ -212,7 +208,7 @@ mpa_plot3(Ncar, reserve = params$reserva, control = params$control, y.lab = "Den
 
 ```{r tabla densidad caracol, results = 'asis'}
 
-stargazer(turfeffect(Ncar, reserve = params$reserva, control = params$control), type = "html")
+stargazer(turfeffect(Ncar, reserve = params$reserva, control = params$control), dep.var.labels = "Densidad (org / transecto)", type = "html", dep.var.caption = "", report = "vc*", single.row = T, omit.stat = c("adj.rsq", "n"), digits = 2, df = F, covariate.labels = c("Ano", "**Zona**", "Constante"))
 
 ```
 
@@ -222,6 +218,14 @@ stargazer(turfeffect(Ncar, reserve = params$reserva, control = params$control), 
 _______
 
 **Referencias**
+
+- R Core Team (2015). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.
+
+- JJ Allaire, Joe Cheng, Yihui Xie, Jonathan McPherson, Winston Chang, Jeff Allen, Hadley Wickham, Aron Atkins and Rob Hyndman (2016). rmarkdown: Dynamic Documents for R. R package version 0.9.6. https://CRAN.R-project.org/package=rmarkdown
+
+- Hadley Wickham and Romain Francois (2016). dplyr: A Grammar of Data Manipulation. R package version 0.5.0. https://CRAN.R-project.org/package=dplyr
+
+- Hadley Wickham (2016). tidyr: Easily Tidy Data with `spread()` and `gather()` Functions. R package version 0.6.0. https://CRAN.R-project.org/package=tidyr
 
 - Hlavac, Marek (2015). stargazer: Well-Formatted Regression and Summary Statistics Tables. R package version 5.2. http://CRAN.R-project.org/package=stargazer
 
