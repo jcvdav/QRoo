@@ -5,8 +5,13 @@ date: "26 de agosto de 2016"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+Se presentanlos análisis de los indicadores biolofísicos (Densidad, Riqueza, Biomasa y Nivel trófico) para las Zonas de Refugio Pesquero (9) establecidas en tres comunidades de Quintana Roo.
+
+Los análisis se realizan con un modelo lineal múltiple, correlacionando el indicador con Año y Zona (Pesca vs. Reserva). El valor de interés para los análisis es el coeficiente de "Zona". Un valor positivo indica que el valor del indicador es mayor para la reserva. Si el coeficiente es significativo, se presentan indicadores a su lado con dos asteriscos (\*\*) para p < 0.05.
+
+```{r, echo = F, out.width = 600, fig.retina = NULL, fig.cap="Por ejemplo, se presentan los resultados para la densidad de langosta (*Panulirus argus*) en El Gallinero, Maria Elena. Se presenta también la tabla de resultados, donde la flecha azul señala el valor del coeficiente de Zona. Los asteriscos a los lados indican que el valor es significativo (p < 0.05)"}
+
+knitr::include_graphics("./ejemplo.jpg")
 ```
 
 # Maria Elena
