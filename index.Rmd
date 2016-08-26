@@ -2,7 +2,10 @@
 title: "Analisis de Zonas de Refugio Pesquero de Quintana Roo"
 author: "Villasenor-Derbez, J.C."
 date: "26 de agosto de 2016"
-output: html_document
+output: 
+  html_document: 
+    toc: yes
+    toc_float: yes
 ---
 
 Se presentanlos análisis de los indicadores biolofísicos (Densidad, Riqueza, Biomasa y Nivel trófico) para las Zonas de Refugio Pesquero (9) establecidas en tres comunidades de Quintana Roo.
