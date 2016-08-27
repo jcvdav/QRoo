@@ -12,7 +12,7 @@ output:
 
 # Analisis de Zonas de Refugio Pesquero de Quintana Roo
 
-Se presentanlos análisis de los indicadores biolofísicos (Densidad, Riqueza, Biomasa y Nivel trófico) para las Zonas de Refugio Pesquero (9) establecidas en tres comunidades de Quintana Roo.
+Se presentanlos análisis de los indicadores biolofísicos (Densidad, Riqueza, Biomasa y Nivel trófico) para las Zonas de Refugio Pesquero (8) establecidas en tres comunidades de Quintana Roo.
 
 ## Interpretación de los análisis
 
@@ -29,7 +29,7 @@ knitr::include_graphics("./ejemplo.jpg")
 
 [El Gallinero](ReporteMaria ElenaEl Gallinero.html)
 
-[El Cabezo](ReporteMaria ElenaEl Cabezo.html)
+[Cabezo](ReporteMaria ElenaCabezo.html)
 
 [Punta Loria](ReporteMaria ElenaPunta Loria.html)
 
@@ -45,8 +45,6 @@ knitr::include_graphics("./ejemplo.jpg")
 
 ## Punta Herrero
 
-[Anegado de Chal](ReportePunta HerreroAnegado de Chal.html)
-
-[El Faro](ReportePunta HerreroEl Faro,html)
+[El Faro](ReportePunta HerreroEl Faro.html)
 
 [Manchon](ReportePunta HerreroManchon.html)
