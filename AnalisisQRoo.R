@@ -20,7 +20,11 @@
 library(MPAtools)
 
 load("Datos/PecesSAM.RData")
-load("Datos/InvertebradosSAM.RData")
+
+load("Datos/InvertebradosSAM.RData") %>%
+  filter(!GeneroEspecie == "Pterois volitans")
+
+invertebrados$Zonificacion[invertebrados$Sitio == "El Faro (Control)"] = "Pesca"
 
 Comunidad <- c("Maria Elena",
               "Maria Elena",
