@@ -55,3 +55,7 @@ Como resumen, cada sitio tiene una tabla con los indicadores evaluados y un cód
 [El Faro](ReportePunta HerreroEl Faro.html)
 
 [Manchon](ReportePunta HerreroManchon.html)
+
+# Tiempo de recuperación
+
+[Langosta](K_langosta.html)

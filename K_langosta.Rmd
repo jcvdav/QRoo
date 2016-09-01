@@ -1,0 +1,116 @@
+---
+title: "Modelo de recuperación de langosta (*Panulirus argus*)"
+output: 
+  html_document: 
+    fig_height: 4
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F, warning = F, message = F)
+```
+
+```{r}
+
+suppressPackageStartupMessages({
+  library(ggplot2)
+  library(dplyr)
+  library(tidyr)
+  library(MPAtools)
+  library(stargazer)
+})
+
+```
+
+
+```{r}
+
+load("Datos/InvertebradosSAM.RData")
+
+```
+
+```{r}
+
+langosta <- invertebrados %>%
+  filter(GeneroEspecie == "Panulirus argus" &
+           Zonificacion == "No Pesca") %>%
+  group_by(Ano, Sitio, Transecto) %>%
+  summarize(Abundancia = sum(Abundancia)) %>%
+  group_by(Ano) %>%
+  summarize(D = mean(Abundancia), DSD = sd(Abundancia))
+
+```
+
+```{r population}
+
+year=seq(2012, 2016)
+pop=langosta$D
+
+year2=year-1
+pop2=pop[match(year2, year)]
+
+
+dNNdt <- log(pop/pop2)*(1)
+
+```
+
+```{r growth}
+
+model1 <- lm(dNNdt~pop2)
+
+plot(pop2, dNNdt)
+abline(model1)
+
+```
+
+## Modelo
+
+$$\frac{1}{\frac{s}{r}+\frac{1}{N_0}e^{-rt}-\frac{s}{r}}$$
+
+```{r, projection, fig.cap="Densidad (org / transecto) de langosta (*Panulirus argus*) por año. Los puntos azules representan el promedio y la línea negra el modelo logístico (r = 0.76, K = 4.37)."}
+
+N0=pop[1]
+
+time=year-min(year)
+
+mod2=nls(pop~1/((s/r+1/N0)*exp(-r*time)-s/r), start=list(r=coef(model1)[[1]], s=coef(model1)[[2]]))
+
+r=coef(mod2)[[1]]
+s=coef(mod2)[[2]]
+
+k <- -r/s
+
+time_pred=seq(2012,2025)-2012
+
+ci <- confint(mod2)
+
+rl = ci[1]
+sl = ci[2]
+
+ru = ci[3]
+su = ci[4]
+
+predicted <- data.frame(model = 1/((s/r+1/N0)*exp(-r*time_pred)-s/r),
+                        Cup = 1/((su/ru+1/N0)*exp(-ru*time_pred)-su/ru),
+                        Clo = 1/((s/r+1/N0)*exp(-r*time_pred)-s/r),
+                        ano = time_pred+2012)
+
+
+ggplot(predicted, aes(x = ano, y = model))+
+  geom_line()+
+  # geom_ribbon(aes(ymin = Clo, ymax = Cup), alpha = 0.5, fill = "blue")+
+  geom_point(data = langosta, aes(x = Ano, y = D), col = "red")+
+  theme_bw()+
+  labs(x = "Año", y = "Densidad (org / transecto)")+
+  geom_hline(yintercept = k, col = "red", lty = 2) +
+  geom_text(x = 2013, y = floor(k), label = "K = 4.37")
+
+
+
+```
+
+```{r}
+
+summary(mod2)
+```
+
+
