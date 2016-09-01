@@ -23,6 +23,13 @@ Los análisis se realizan con un modelo lineal múltiple, correlacionando el ind
 knitr::include_graphics("./ejemplo.jpg")
 ```
 
+Como resumen, cada sitio tiene una tabla con los indicadores evaluados y un código de color, que deberá ser interpretado de la siguiente manera:
+
+![](legend.png)
+
+    
+        
+        
 # Links a páginas por Comunidad y Sitio
 
 ## Maria Elena
