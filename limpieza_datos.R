@@ -35,6 +35,9 @@ peces$Sitio[peces$Sitio == "ZRP40 Cañones Sur "] = "ZRP40 Cañones Sur"
 peces$Sitio[peces$Sitio == "ZRP40 Cañones Sur (Control)  "] = "ZRP40 Cañones Sur (Control)"
 peces$Sitio = as.factor(peces$Sitio)
 
+peces$GeneroEspecie[peces$GeneroEspecie == "Haemulon striatum "] = "Haemulon striatum"
+peces$GeneroEspecie[peces$GeneroEspecie == "Haemulon  striatum "] = "Haemulon striatum"
+
 
 save(peces, file = "Datos/PecesSAM.RData")
 
