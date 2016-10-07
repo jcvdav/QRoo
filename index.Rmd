@@ -43,6 +43,8 @@ knitr::include_graphics("./ejemplo.jpg")
 
 [Punta Loria](ReporteMaria ElenaPunta Loria.html)
 
+[San Roman](ReporteMaria ElenaSan Roman.html)
+
 
 ## Banco Chinchorro
 
